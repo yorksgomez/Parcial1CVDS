@@ -37,5 +37,44 @@ Como por ejemplo, con Order
 
 ![image](https://user-images.githubusercontent.com/23731047/192083588-bb52d919-6cd9-4875-890d-7a04e9413ab8.png)
 
+<h2 align="center">Patterns</h2>
 
+<b>Usado: </b> Inconscientemente, se usa el Patrón <b>Facade</b>, por el cual se simplifica con la creación del método MakeRequest todo el uso de la librería Apache Http (aunque de paso es alto singleton). 
 
+![image](https://user-images.githubusercontent.com/23731047/192084543-c4b1ecf1-4f5d-4fdf-99fa-681791703a69.png)
+
+<b>Propuesto: </b> Se recomendaría el uso del patrón <b>Iterator</b>. Actualmente en el sistema se usa una función (copiada en cada clase) llamada JSONDecoder para convertir las respuestas JSON en algo comprensible para la App, para generar una capa de abstracción y disminuir el acoplamiento de estas clases se podría convertir cada respuesta en un JSONIterable
+
+Sin iterable:
+
+![image](https://user-images.githubusercontent.com/23731047/192085351-3f857529-342a-4e78-a0aa-a797b30d55bf.png)
+
+![Brush-#2](https://user-images.githubusercontent.com/23731047/192085286-a1b8a70e-510e-4561-a285-51bebc6b0fd7.png)
+
+<h2 align="center">SOLID</h2>
+
+<b>Cumple: </b> En general, los controladores de la aplicación cumplen la S de solid, debido a que por ejemplo, MakeRequest, cumple un sólo trabajo, que es crear request hacia la api indicada. Retomando la imagen del MakeRequest
+
+![image](https://user-images.githubusercontent.com/23731047/192084543-c4b1ecf1-4f5d-4fdf-99fa-681791703a69.png)
+
+<b>Propuesto: </b> Dependency Inversion Principle, el sistema usa el SHA256 para encriptar contraseñas. Actualmente SHA256 es de los métodos preferidos por los desarrolladores. Mientras que MD5 está lentamente dejando de usarse por la superioridad de SHA256. Sin embargo, así como en algún momento MD5 fue por mucho el método de encriptación más popular, ¿Qué pasará con el funcionamiento de nuestro sistema? ¿Sobreescribiremos la misma función manteniéndole el nombre, pero no la lógica? Eso no es muy coherente ni sostenible, el sistema no deberia ser dependiente de un sistema de encriptación específico.
+
+![image](https://user-images.githubusercontent.com/23731047/192087330-9f9814cc-6bcb-446d-8fa2-02f3351d9930.png)
+
+Solución propuesta:
+
+![image](https://user-images.githubusercontent.com/23731047/192087578-7b1f27af-2239-461f-8875-c6a2df6d81c6.png)
+
+<h2 align="center">Sobre Frameworks y el desarrollo</h2>
+
+<p>En el sistema visto. Perfectamente se podría haber hecho un desarrollo con Laravel y podría estar la api sobre el sistema web sin necesidad de repetir tanto el código ni de tener dar tantas vueltas a la hora de hacer peticiones desde la web</p>
+
+![image](https://user-images.githubusercontent.com/23731047/192087718-31a31830-287b-4db7-9a48-83dde8978a79.png)
+
+![image](https://user-images.githubusercontent.com/23731047/192087739-a9b3221b-9cf0-4346-8dd2-2280c06cb164.png)
+
+![image](https://user-images.githubusercontent.com/23731047/192086329-9eb24a19-a538-47e4-a31e-565c903270ce.png)
+
+<h2 align="center">Testing</h2>
+
+![Brush-#3](https://user-images.githubusercontent.com/23731047/192087951-d2d87a5f-afaa-41ae-9c87-cee13140a4fb.png)
