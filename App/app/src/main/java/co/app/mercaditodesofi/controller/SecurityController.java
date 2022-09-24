@@ -5,7 +5,7 @@ import java.security.NoSuchAlgorithmException;
 
 public class SecurityController {
 
-    public static String encryptToSHA256(String password) {
+    public static String encrypt(String password) {
         MessageDigest md = null;
         try {
             md = MessageDigest.getInstance("SHA-256");
