@@ -1,0 +1,32 @@
+.hidden_id {
+  display: none;
+}
+
+.inputFileHidden {
+  z-index: 1 !important;
+}
+
+.product_line .change_password_icon:hover {
+  color: #fa4300 !important;
+}
+
+.product_line .button {
+  margin: 0 5px;
+  cursor: pointer;
+  font-size: 1.2em;
+  padding: 5px;
+  text-decoration: none;
+  color: #000;
+}
+
+.product_line .product_button:hover {
+  color: #ff9800 !important;
+}
+
+.product_line .product_delete:hover {
+  color: #fa4300 !important;
+}
+
+.product_line .product_image:hover {
+  color: #ff9800 !important;
+}

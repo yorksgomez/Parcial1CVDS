@@ -1,0 +1,476 @@
+[31-Jan-2020 19:40:01 UTC] PHP Parse error:  syntax error, unexpected '/' in /home3/grupoc19/public_html/login/sistema/menu_general.php on line 20
+[31-Jan-2020 19:41:58 UTC] PHP Parse error:  syntax error, unexpected '/' in /home3/grupoc19/public_html/login/sistema/menu_general.php on line 20
+[31-Jan-2020 19:42:02 UTC] PHP Parse error:  syntax error, unexpected '/' in /home3/grupoc19/public_html/login/sistema/menu_general.php on line 20
+[31-Jan-2020 19:42:45 UTC] PHP Parse error:  syntax error, unexpected '/' in /home3/grupoc19/public_html/login/sistema/menu_general.php on line 20
+[31-Jan-2020 19:43:51 UTC] PHP Parse error:  syntax error, unexpected '/' in /home3/grupoc19/public_html/login/sistema/menu_general.php on line 20
+[31-Jan-2020 19:43:55 UTC] PHP Parse error:  syntax error, unexpected '/' in /home3/grupoc19/public_html/login/sistema/menu_general.php on line 20
+[31-Jan-2020 19:45:34 UTC] PHP Parse error:  syntax error, unexpected '/' in /home3/grupoc19/public_html/login/sistema/menu_general.php on line 20
+[31-Jan-2020 19:45:37 UTC] PHP Parse error:  syntax error, unexpected '/' in /home3/grupoc19/public_html/login/sistema/menu_general.php on line 20
+[31-Jan-2020 19:45:38 UTC] PHP Parse error:  syntax error, unexpected '/' in /home3/grupoc19/public_html/login/sistema/menu_general.php on line 20
+[01-Feb-2020 03:27:12 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/grupoc19/public_html/login/sistema/is_log.php on line 2
+[01-Feb-2020 03:27:12 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/grupoc19/public_html/login/sistema/cuentas.php:1) in /home3/grupoc19/public_html/login/sistema/is_log.php on line 5
+[01-Feb-2020 03:27:17 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/grupoc19/public_html/login/sistema/is_log.php on line 2
+[01-Feb-2020 03:27:17 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/grupoc19/public_html/login/sistema/index.php:1) in /home3/grupoc19/public_html/login/sistema/is_log.php on line 5
+[01-Feb-2020 03:27:20 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/grupoc19/public_html/login/sistema/is_log.php on line 2
+[01-Feb-2020 03:27:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/grupoc19/public_html/login/sistema/index.php:1) in /home3/grupoc19/public_html/login/sistema/is_log.php on line 5
+[01-Feb-2020 03:29:42 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/grupoc19/public_html/login/sistema/is_log.php on line 2
+[01-Feb-2020 03:29:42 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/grupoc19/public_html/login/sistema/index.php:1) in /home3/grupoc19/public_html/login/sistema/is_log.php on line 7
+[01-Feb-2020 03:29:42 UTC] PHP Notice:  Undefined variable: _SESSION in /home3/grupoc19/public_html/login/sistema/index.php on line 45
+[01-Feb-2020 03:29:51 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/grupoc19/public_html/login/sistema/is_log.php on line 2
+[01-Feb-2020 03:29:51 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/grupoc19/public_html/login/sistema/index.php:1) in /home3/grupoc19/public_html/login/sistema/is_log.php on line 7
+[01-Feb-2020 03:29:51 UTC] PHP Notice:  Undefined variable: _SESSION in /home3/grupoc19/public_html/login/sistema/index.php on line 45
+[01-Feb-2020 03:32:45 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/grupoc19/public_html/login/sistema/is_log.php on line 2
+[01-Feb-2020 03:32:45 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/grupoc19/public_html/login/sistema/index.php:1) in /home3/grupoc19/public_html/login/sistema/is_log.php on line 7
+[01-Feb-2020 03:32:45 UTC] PHP Notice:  Undefined variable: _SESSION in /home3/grupoc19/public_html/login/sistema/index.php on line 45
+[01-Feb-2020 03:32:50 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/grupoc19/public_html/login/sistema/is_log.php on line 2
+[01-Feb-2020 03:32:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/grupoc19/public_html/login/sistema/index.php:1) in /home3/grupoc19/public_html/login/sistema/is_log.php on line 7
+[01-Feb-2020 03:32:50 UTC] PHP Notice:  Undefined variable: _SESSION in /home3/grupoc19/public_html/login/sistema/index.php on line 45
+[01-Feb-2020 03:34:19 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/grupoc19/public_html/login/sistema/is_log.php on line 2
+[01-Feb-2020 03:34:19 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/grupoc19/public_html/login/sistema/index.php:1) in /home3/grupoc19/public_html/login/sistema/is_log.php on line 7
+[01-Feb-2020 03:34:19 UTC] PHP Notice:  Undefined variable: _SESSION in /home3/grupoc19/public_html/login/sistema/index.php on line 45
+[01-Feb-2020 03:35:49 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/grupoc19/public_html/login/sistema/is_log.php on line 2
+[01-Feb-2020 03:35:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/grupoc19/public_html/login/sistema/index.php:1) in /home3/grupoc19/public_html/login/sistema/is_log.php on line 7
+[01-Feb-2020 03:35:49 UTC] PHP Notice:  Undefined variable: _SESSION in /home3/grupoc19/public_html/login/sistema/index.php on line 45
+[01-Feb-2020 03:37:42 UTC] PHP Notice:  Undefined index: user in /home3/grupoc19/public_html/login/sistema/index.php on line 45
+[01-Feb-2020 12:37:06 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/grupoc19/public_html/login/sistema/is_log.php on line 2
+[01-Feb-2020 12:37:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/grupoc19/public_html/login/sistema/cuentas.php:1) in /home3/grupoc19/public_html/login/sistema/is_log.php on line 7
+[01-Feb-2020 13:29:11 UTC] PHP Warning:  include(get_sucursales.php): failed to open stream: No such file or directory in /home3/grupoc19/public_html/login/sistema/cuentas.php on line 165
+[01-Feb-2020 13:29:11 UTC] PHP Warning:  include(get_sucursales.php): failed to open stream: No such file or directory in /home3/grupoc19/public_html/login/sistema/cuentas.php on line 165
+[01-Feb-2020 13:29:11 UTC] PHP Warning:  include(): Failed opening 'get_sucursales.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home3/grupoc19/public_html/login/sistema/cuentas.php on line 165
+[01-Feb-2020 13:29:15 UTC] PHP Warning:  include(get_sucursales.php): failed to open stream: No such file or directory in /home3/grupoc19/public_html/login/sistema/cuentas.php on line 165
+[01-Feb-2020 13:29:15 UTC] PHP Warning:  include(get_sucursales.php): failed to open stream: No such file or directory in /home3/grupoc19/public_html/login/sistema/cuentas.php on line 165
+[01-Feb-2020 13:29:15 UTC] PHP Warning:  include(): Failed opening 'get_sucursales.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home3/grupoc19/public_html/login/sistema/cuentas.php on line 165
+[01-Feb-2020 13:39:43 UTC] PHP Warning:  include(add_sucursal.php): failed to open stream: No such file or directory in /home3/grupoc19/public_html/login/sistema/cuentas.php on line 142
+[01-Feb-2020 13:39:43 UTC] PHP Warning:  include(add_sucursal.php): failed to open stream: No such file or directory in /home3/grupoc19/public_html/login/sistema/cuentas.php on line 142
+[01-Feb-2020 13:39:43 UTC] PHP Warning:  include(): Failed opening 'add_sucursal.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home3/grupoc19/public_html/login/sistema/cuentas.php on line 142
+[01-Feb-2020 13:39:43 UTC] PHP Warning:  include(get_sucursales.php): failed to open stream: No such file or directory in /home3/grupoc19/public_html/login/sistema/cuentas.php on line 166
+[01-Feb-2020 13:39:43 UTC] PHP Warning:  include(get_sucursales.php): failed to open stream: No such file or directory in /home3/grupoc19/public_html/login/sistema/cuentas.php on line 166
+[01-Feb-2020 13:39:43 UTC] PHP Warning:  include(): Failed opening 'get_sucursales.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home3/grupoc19/public_html/login/sistema/cuentas.php on line 166
+[01-Feb-2020 13:39:47 UTC] PHP Warning:  include(add_sucursal.php): failed to open stream: No such file or directory in /home3/grupoc19/public_html/login/sistema/cuentas.php on line 142
+[01-Feb-2020 13:39:47 UTC] PHP Warning:  include(add_sucursal.php): failed to open stream: No such file or directory in /home3/grupoc19/public_html/login/sistema/cuentas.php on line 142
+[01-Feb-2020 13:39:47 UTC] PHP Warning:  include(): Failed opening 'add_sucursal.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home3/grupoc19/public_html/login/sistema/cuentas.php on line 142
+[01-Feb-2020 13:39:47 UTC] PHP Warning:  include(get_sucursales.php): failed to open stream: No such file or directory in /home3/grupoc19/public_html/login/sistema/cuentas.php on line 166
+[01-Feb-2020 13:39:47 UTC] PHP Warning:  include(get_sucursales.php): failed to open stream: No such file or directory in /home3/grupoc19/public_html/login/sistema/cuentas.php on line 166
+[01-Feb-2020 13:39:47 UTC] PHP Warning:  include(): Failed opening 'get_sucursales.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home3/grupoc19/public_html/login/sistema/cuentas.php on line 166
+[01-Feb-2020 13:41:29 UTC] PHP Warning:  file_get_contents(http://elestanco.000webhostapp.com/api/get_sucursales.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home3/grupoc19/public_html/login/sistema/get_sucursales.php on line 5
+[01-Feb-2020 13:41:29 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home3/grupoc19/public_html/login/sistema/get_sucursales.php on line 8
+[01-Feb-2020 13:41:56 UTC] PHP Warning:  file_get_contents(https://elestan.co/api/get_sucursales.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home3/grupoc19/public_html/login/sistema/get_sucursales.php on line 5
+[01-Feb-2020 13:41:56 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home3/grupoc19/public_html/login/sistema/get_sucursales.php on line 8
+[01-Feb-2020 13:42:54 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home3/grupoc19/public_html/login/sistema/get_sucursales.php on line 8
+[01-Feb-2020 13:44:10 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home3/grupoc19/public_html/login/sistema/get_sucursales.php on line 8
+[01-Feb-2020 13:44:14 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home3/grupoc19/public_html/login/sistema/get_sucursales.php on line 8
+[01-Feb-2020 13:44:42 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home3/grupoc19/public_html/login/sistema/get_sucursales.php on line 8
+[01-Feb-2020 13:46:00 UTC] PHP Notice:  Constant REQUEST_SERVER already defined in /home3/grupoc19/public_html/login/app_constants.php on line 3
+[01-Feb-2020 13:46:07 UTC] PHP Notice:  Constant REQUEST_SERVER already defined in /home3/grupoc19/public_html/login/app_constants.php on line 3
+[01-Feb-2020 13:46:11 UTC] PHP Notice:  Constant REQUEST_SERVER already defined in /home3/grupoc19/public_html/login/app_constants.php on line 3
+[01-Feb-2020 14:12:03 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home3/grupoc19/public_html/login/sistema/get_pedidos.php:11
+Stack trace:
+#0 /home3/grupoc19/public_html/login/sistema/pedidos.php(104): include()
+#1 {main}
+  thrown in /home3/grupoc19/public_html/login/sistema/get_pedidos.php on line 11
+[01-Feb-2020 14:12:43 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home3/grupoc19/public_html/login/sistema/get_pedidos.php:11
+Stack trace:
+#0 /home3/grupoc19/public_html/login/sistema/pedidos.php(104): include()
+#1 {main}
+  thrown in /home3/grupoc19/public_html/login/sistema/get_pedidos.php on line 11
+[01-Feb-2020 14:12:49 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home3/grupoc19/public_html/login/sistema/get_pedidos.php:11
+Stack trace:
+#0 /home3/grupoc19/public_html/login/sistema/pedidos.php(104): include()
+#1 {main}
+  thrown in /home3/grupoc19/public_html/login/sistema/get_pedidos.php on line 11
+[01-Feb-2020 14:13:24 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home3/grupoc19/public_html/login/sistema/get_pedidos.php:11
+Stack trace:
+#0 /home3/grupoc19/public_html/login/sistema/pedidos.php(104): include()
+#1 {main}
+  thrown in /home3/grupoc19/public_html/login/sistema/get_pedidos.php on line 11
+[01-Feb-2020 14:14:06 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home3/grupoc19/public_html/login/sistema/get_pedidos.php:11
+Stack trace:
+#0 /home3/grupoc19/public_html/login/sistema/pedidos.php(104): include()
+#1 {main}
+  thrown in /home3/grupoc19/public_html/login/sistema/get_pedidos.php on line 11
+[03-Feb-2020 02:02:42 UTC] PHP Notice:  Undefined index: productos in /home3/grupoc19/public_html/login/sistema/get_pedidos.php on line 42
+[03-Feb-2020 02:02:42 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home3/grupoc19/public_html/login/sistema/get_pedidos.php on line 42
+[03-Feb-2020 02:03:51 UTC] PHP Notice:  Undefined index: productos in /home3/grupoc19/public_html/login/sistema/get_pedidos.php on line 42
+[03-Feb-2020 02:03:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home3/grupoc19/public_html/login/sistema/get_pedidos.php on line 42
+[03-Feb-2020 02:04:44 UTC] PHP Notice:  Undefined index: productos in /home3/grupoc19/public_html/login/sistema/get_pedidos.php on line 43
+[03-Feb-2020 02:04:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home3/grupoc19/public_html/login/sistema/get_pedidos.php on line 43
+[03-Feb-2020 02:05:53 UTC] PHP Notice:  Undefined index: productos in /home3/grupoc19/public_html/login/sistema/get_pedidos.php on line 43
+[03-Feb-2020 02:05:53 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home3/grupoc19/public_html/login/sistema/get_pedidos.php on line 43
+[03-Feb-2020 02:05:56 UTC] PHP Notice:  Undefined index: productos in /home3/grupoc19/public_html/login/sistema/get_pedidos.php on line 43
+[03-Feb-2020 02:05:56 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home3/grupoc19/public_html/login/sistema/get_pedidos.php on line 43
+[03-Feb-2020 02:06:00 UTC] PHP Notice:  Undefined index: productos in /home3/grupoc19/public_html/login/sistema/get_pedidos.php on line 43
+[03-Feb-2020 02:06:00 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home3/grupoc19/public_html/login/sistema/get_pedidos.php on line 43
+[04-Feb-2020 19:06:20 UTC] PHP Notice:  Undefined index: usuario in /home3/grupoc19/public_html/login/app_constants.php on line 10
+[04-Feb-2020 19:06:20 UTC] PHP Notice:  Undefined index: contrasena in /home3/grupoc19/public_html/login/app_constants.php on line 10
+[04-Feb-2020 19:06:20 UTC] PHP Notice:  Undefined index: usuario in /home3/grupoc19/public_html/login/app_constants.php on line 10
+[04-Feb-2020 19:06:20 UTC] PHP Notice:  Undefined index: contrasena in /home3/grupoc19/public_html/login/app_constants.php on line 10
+[04-Feb-2020 19:07:03 UTC] PHP Notice:  Undefined index: usuario in /home3/grupoc19/public_html/login/app_constants.php on line 10
+[04-Feb-2020 19:07:03 UTC] PHP Notice:  Undefined index: contrasena in /home3/grupoc19/public_html/login/app_constants.php on line 10
+[04-Feb-2020 19:07:03 UTC] PHP Notice:  Undefined index: usuario in /home3/grupoc19/public_html/login/app_constants.php on line 10
+[04-Feb-2020 19:07:03 UTC] PHP Notice:  Undefined index: contrasena in /home3/grupoc19/public_html/login/app_constants.php on line 10
+[04-Feb-2020 19:09:18 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home3/grupoc19/public_html/login/sistema/get_pedidos.php on line 13
+[05-Feb-2020 18:16:48 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home3/grupoc19/public_html/login/sistema/get_pedidos.php on line 13
+[05-Feb-2020 18:39:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function file_gets_content() in /home3/grupoc19/public_html/login/sistema/del_pedido.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/grupoc19/public_html/login/sistema/del_pedido.php on line 7
+[05-Feb-2020 18:39:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function file_gets_content() in /home3/grupoc19/public_html/login/sistema/del_pedido.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/grupoc19/public_html/login/sistema/del_pedido.php on line 7
+[05-Feb-2020 18:40:42 UTC] PHP Notice:  Undefined variable: _SESSION in /home3/grupoc19/public_html/login/app_constants.php on line 10
+[05-Feb-2020 18:40:42 UTC] PHP Notice:  Undefined variable: _SESSION in /home3/grupoc19/public_html/login/app_constants.php on line 10
+[05-Feb-2020 18:40:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function file_gets_content() in /home3/grupoc19/public_html/login/sistema/del_pedido.php:10
+Stack trace:
+#0 {main}
+  thrown in /home3/grupoc19/public_html/login/sistema/del_pedido.php on line 10
+[05-Feb-2020 18:42:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function file_gets_content() in /home3/grupoc19/public_html/login/sistema/del_pedido.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/grupoc19/public_html/login/sistema/del_pedido.php on line 7
+[05-Feb-2020 18:43:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function file_gets_content() in /home3/grupoc19/public_html/login/sistema/del_pedido.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/grupoc19/public_html/login/sistema/del_pedido.php on line 7
+[05-Feb-2020 18:44:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function file_gets_content() in /home3/grupoc19/public_html/login/sistema/del_pedido.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/grupoc19/public_html/login/sistema/del_pedido.php on line 7
+[05-Feb-2020 18:44:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function file_gets_content() in /home3/grupoc19/public_html/login/sistema/del_pedido.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/grupoc19/public_html/login/sistema/del_pedido.php on line 7
+[10-Feb-2020 12:58:22 UTC] PHP Notice:  Undefined variable: product in /home3/grupoc19/public_html/login/sistema/get_products.php on line 10
+[10-Feb-2020 12:58:22 UTC] PHP Notice:  Undefined variable: product in /home3/grupoc19/public_html/login/sistema/get_products.php on line 10
+[10-Feb-2020 12:58:22 UTC] PHP Notice:  Undefined variable: product in /home3/grupoc19/public_html/login/sistema/get_products.php on line 10
+[10-Feb-2020 12:58:22 UTC] PHP Notice:  Undefined variable: product in /home3/grupoc19/public_html/login/sistema/get_products.php on line 10
+[10-Feb-2020 12:58:22 UTC] PHP Notice:  Undefined variable: product in /home3/grupoc19/public_html/login/sistema/get_products.php on line 10
+[10-Feb-2020 12:58:22 UTC] PHP Notice:  Undefined variable: product in /home3/grupoc19/public_html/login/sistema/get_products.php on line 10
+[10-Feb-2020 12:58:22 UTC] PHP Notice:  Undefined variable: product in /home3/grupoc19/public_html/login/sistema/get_products.php on line 10
+[10-Feb-2020 12:58:22 UTC] PHP Notice:  Undefined variable: product in /home3/grupoc19/public_html/login/sistema/get_products.php on line 10
+[10-Feb-2020 12:58:22 UTC] PHP Notice:  Undefined variable: product in /home3/grupoc19/public_html/login/sistema/get_products.php on line 10
+[10-Feb-2020 12:58:22 UTC] PHP Notice:  Undefined variable: product in /home3/grupoc19/public_html/login/sistema/get_products.php on line 10
+[10-Feb-2020 12:58:22 UTC] PHP Notice:  Undefined variable: product in /home3/grupoc19/public_html/login/sistema/get_products.php on line 10
+[10-Feb-2020 12:58:22 UTC] PHP Notice:  Undefined variable: product in /home3/grupoc19/public_html/login/sistema/get_products.php on line 10
+[10-Feb-2020 12:58:22 UTC] PHP Notice:  Undefined variable: product in /home3/grupoc19/public_html/login/sistema/get_products.php on line 10
+[10-Feb-2020 12:58:22 UTC] PHP Notice:  Undefined variable: product in /home3/grupoc19/public_html/login/sistema/get_products.php on line 10
+[10-Feb-2020 12:58:22 UTC] PHP Notice:  Undefined variable: product in /home3/grupoc19/public_html/login/sistema/get_products.php on line 10
+[10-Feb-2020 12:58:22 UTC] PHP Notice:  Undefined variable: product in /home3/grupoc19/public_html/login/sistema/get_products.php on line 10
+[10-Feb-2020 12:58:22 UTC] PHP Notice:  Undefined variable: product in /home3/grupoc19/public_html/login/sistema/get_products.php on line 10
+[10-Feb-2020 12:58:22 UTC] PHP Notice:  Undefined variable: product in /home3/grupoc19/public_html/login/sistema/get_products.php on line 10
+[10-Feb-2020 12:58:22 UTC] PHP Notice:  Undefined variable: product in /home3/grupoc19/public_html/login/sistema/get_products.php on line 10
+[10-Feb-2020 12:58:22 UTC] PHP Notice:  Undefined variable: product in /home3/grupoc19/public_html/login/sistema/get_products.php on line 10
+[10-Feb-2020 12:58:22 UTC] PHP Notice:  Undefined variable: product in /home3/grupoc19/public_html/login/sistema/get_products.php on line 10
+[10-Feb-2020 12:58:22 UTC] PHP Notice:  Undefined variable: product in /home3/grupoc19/public_html/login/sistema/get_products.php on line 10
+[10-Feb-2020 12:58:22 UTC] PHP Notice:  Undefined variable: product in /home3/grupoc19/public_html/login/sistema/get_products.php on line 10
+[10-Feb-2020 12:58:22 UTC] PHP Notice:  Undefined variable: product in /home3/grupoc19/public_html/login/sistema/get_products.php on line 10
+[10-Feb-2020 12:58:22 UTC] PHP Notice:  Undefined variable: product in /home3/grupoc19/public_html/login/sistema/get_products.php on line 10
+[10-Feb-2020 12:58:22 UTC] PHP Notice:  Undefined variable: product in /home3/grupoc19/public_html/login/sistema/get_products.php on line 10
+[10-Feb-2020 12:58:22 UTC] PHP Notice:  Undefined variable: product in /home3/grupoc19/public_html/login/sistema/get_products.php on line 10
+[10-Feb-2020 12:58:22 UTC] PHP Notice:  Undefined variable: product in /home3/grupoc19/public_html/login/sistema/get_products.php on line 10
+[10-Feb-2020 12:58:22 UTC] PHP Notice:  Undefined variable: product in /home3/grupoc19/public_html/login/sistema/get_products.php on line 10
+[10-Feb-2020 12:58:22 UTC] PHP Notice:  Undefined variable: product in /home3/grupoc19/public_html/login/sistema/get_products.php on line 10
+[10-Feb-2020 12:58:22 UTC] PHP Notice:  Undefined variable: product in /home3/grupoc19/public_html/login/sistema/get_products.php on line 10
+[10-Feb-2020 12:58:22 UTC] PHP Notice:  Undefined variable: product in /home3/grupoc19/public_html/login/sistema/get_products.php on line 10
+[10-Feb-2020 12:58:22 UTC] PHP Notice:  Undefined variable: product in /home3/grupoc19/public_html/login/sistema/get_products.php on line 10
+[10-Feb-2020 12:58:22 UTC] PHP Notice:  Undefined variable: product in /home3/grupoc19/public_html/login/sistema/get_products.php on line 10
+[10-Feb-2020 12:58:22 UTC] PHP Notice:  Undefined variable: product in /home3/grupoc19/public_html/login/sistema/get_products.php on line 10
+[10-Feb-2020 12:58:22 UTC] PHP Notice:  Undefined variable: product in /home3/grupoc19/public_html/login/sistema/get_products.php on line 10
+[10-Feb-2020 12:58:22 UTC] PHP Notice:  Undefined variable: product in /home3/grupoc19/public_html/login/sistema/get_products.php on line 10
+[10-Feb-2020 12:58:22 UTC] PHP Notice:  Undefined variable: product in /home3/grupoc19/public_html/login/sistema/get_products.php on line 10
+[10-Feb-2020 12:58:22 UTC] PHP Notice:  Undefined variable: product in /home3/grupoc19/public_html/login/sistema/get_products.php on line 10
+[10-Feb-2020 12:58:22 UTC] PHP Notice:  Undefined variable: product in /home3/grupoc19/public_html/login/sistema/get_products.php on line 10
+[10-Feb-2020 12:58:22 UTC] PHP Notice:  Undefined variable: product in /home3/grupoc19/public_html/login/sistema/get_products.php on line 10
+[10-Feb-2020 12:58:22 UTC] PHP Notice:  Undefined variable: product in /home3/grupoc19/public_html/login/sistema/get_products.php on line 10
+[10-Feb-2020 12:58:22 UTC] PHP Notice:  Undefined variable: product in /home3/grupoc19/public_html/login/sistema/get_products.php on line 10
+[10-Feb-2020 12:58:22 UTC] PHP Notice:  Undefined variable: product in /home3/grupoc19/public_html/login/sistema/get_products.php on line 10
+[10-Feb-2020 12:58:22 UTC] PHP Notice:  Undefined variable: product in /home3/grupoc19/public_html/login/sistema/get_products.php on line 10
+[10-Feb-2020 12:58:22 UTC] PHP Notice:  Undefined variable: product in /home3/grupoc19/public_html/login/sistema/get_products.php on line 10
+[10-Feb-2020 12:58:22 UTC] PHP Notice:  Undefined variable: product in /home3/grupoc19/public_html/login/sistema/get_products.php on line 10
+[10-Feb-2020 12:58:22 UTC] PHP Notice:  Undefined variable: product in /home3/grupoc19/public_html/login/sistema/get_products.php on line 10
+[10-Feb-2020 12:58:22 UTC] PHP Notice:  Undefined variable: product in /home3/grupoc19/public_html/login/sistema/get_products.php on line 10
+[10-Feb-2020 12:58:22 UTC] PHP Notice:  Undefined variable: product in /home3/grupoc19/public_html/login/sistema/get_products.php on line 10
+[10-Feb-2020 12:58:22 UTC] PHP Notice:  Undefined variable: product in /home3/grupoc19/public_html/login/sistema/get_products.php on line 10
+[10-Feb-2020 12:58:22 UTC] PHP Notice:  Undefined variable: product in /home3/grupoc19/public_html/login/sistema/get_products.php on line 10
+[10-Feb-2020 12:58:22 UTC] PHP Notice:  Undefined variable: product in /home3/grupoc19/public_html/login/sistema/get_products.php on line 10
+[10-Feb-2020 12:58:22 UTC] PHP Notice:  Undefined variable: product in /home3/grupoc19/public_html/login/sistema/get_products.php on line 10
+[10-Feb-2020 12:58:22 UTC] PHP Notice:  Undefined variable: product in /home3/grupoc19/public_html/login/sistema/get_products.php on line 10
+[10-Feb-2020 12:58:22 UTC] PHP Notice:  Undefined variable: product in /home3/grupoc19/public_html/login/sistema/get_products.php on line 10
+[10-Feb-2020 12:58:22 UTC] PHP Notice:  Undefined variable: product in /home3/grupoc19/public_html/login/sistema/get_products.php on line 10
+[10-Feb-2020 12:58:22 UTC] PHP Notice:  Undefined variable: product in /home3/grupoc19/public_html/login/sistema/get_products.php on line 10
+[10-Feb-2020 12:58:22 UTC] PHP Notice:  Undefined variable: product in /home3/grupoc19/public_html/login/sistema/get_products.php on line 10
+[10-Feb-2020 12:58:22 UTC] PHP Notice:  Undefined variable: product in /home3/grupoc19/public_html/login/sistema/get_products.php on line 10
+[10-Feb-2020 12:58:22 UTC] PHP Notice:  Undefined variable: product in /home3/grupoc19/public_html/login/sistema/get_products.php on line 10
+[10-Feb-2020 12:58:22 UTC] PHP Notice:  Undefined variable: product in /home3/grupoc19/public_html/login/sistema/get_products.php on line 10
+[10-Feb-2020 12:58:22 UTC] PHP Notice:  Undefined variable: product in /home3/grupoc19/public_html/login/sistema/get_products.php on line 10
+[10-Feb-2020 12:58:22 UTC] PHP Notice:  Undefined variable: product in /home3/grupoc19/public_html/login/sistema/get_products.php on line 10
+[10-Feb-2020 12:58:22 UTC] PHP Notice:  Undefined variable: product in /home3/grupoc19/public_html/login/sistema/get_products.php on line 10
+[10-Feb-2020 12:58:22 UTC] PHP Notice:  Undefined variable: product in /home3/grupoc19/public_html/login/sistema/get_products.php on line 10
+[10-Feb-2020 12:58:22 UTC] PHP Notice:  Undefined variable: product in /home3/grupoc19/public_html/login/sistema/get_products.php on line 10
+[10-Feb-2020 12:58:22 UTC] PHP Notice:  Undefined variable: product in /home3/grupoc19/public_html/login/sistema/get_products.php on line 10
+[10-Feb-2020 12:58:22 UTC] PHP Notice:  Undefined variable: product in /home3/grupoc19/public_html/login/sistema/get_products.php on line 10
+[10-Feb-2020 12:58:22 UTC] PHP Notice:  Undefined variable: product in /home3/grupoc19/public_html/login/sistema/get_products.php on line 10
+[10-Feb-2020 12:58:22 UTC] PHP Notice:  Undefined variable: product in /home3/grupoc19/public_html/login/sistema/get_products.php on line 10
+[10-Feb-2020 12:58:22 UTC] PHP Notice:  Undefined variable: product in /home3/grupoc19/public_html/login/sistema/get_products.php on line 10
+[10-Feb-2020 12:58:22 UTC] PHP Notice:  Undefined variable: product in /home3/grupoc19/public_html/login/sistema/get_products.php on line 10
+[10-Feb-2020 12:58:22 UTC] PHP Notice:  Undefined variable: product in /home3/grupoc19/public_html/login/sistema/get_products.php on line 10
+[10-Feb-2020 12:58:22 UTC] PHP Notice:  Undefined variable: product in /home3/grupoc19/public_html/login/sistema/get_products.php on line 10
+[10-Feb-2020 12:58:22 UTC] PHP Notice:  Undefined variable: product in /home3/grupoc19/public_html/login/sistema/get_products.php on line 10
+[10-Feb-2020 12:58:22 UTC] PHP Notice:  Undefined variable: product in /home3/grupoc19/public_html/login/sistema/get_products.php on line 10
+[10-Feb-2020 12:58:22 UTC] PHP Notice:  Undefined variable: product in /home3/grupoc19/public_html/login/sistema/get_products.php on line 10
+[10-Feb-2020 12:58:22 UTC] PHP Notice:  Undefined variable: product in /home3/grupoc19/public_html/login/sistema/get_products.php on line 10
+[10-Feb-2020 12:58:22 UTC] PHP Notice:  Undefined variable: product in /home3/grupoc19/public_html/login/sistema/get_products.php on line 10
+[10-Feb-2020 12:58:22 UTC] PHP Notice:  Undefined variable: product in /home3/grupoc19/public_html/login/sistema/get_products.php on line 10
+[10-Feb-2020 12:58:22 UTC] PHP Notice:  Undefined variable: product in /home3/grupoc19/public_html/login/sistema/get_products.php on line 10
+[10-Feb-2020 12:58:22 UTC] PHP Notice:  Undefined variable: product in /home3/grupoc19/public_html/login/sistema/get_products.php on line 10
+[10-Feb-2020 12:58:22 UTC] PHP Notice:  Undefined variable: product in /home3/grupoc19/public_html/login/sistema/get_products.php on line 10
+[10-Feb-2020 12:58:22 UTC] PHP Notice:  Undefined variable: product in /home3/grupoc19/public_html/login/sistema/get_products.php on line 10
+[10-Feb-2020 12:58:22 UTC] PHP Notice:  Undefined variable: product in /home3/grupoc19/public_html/login/sistema/get_products.php on line 10
+[10-Feb-2020 12:58:22 UTC] PHP Notice:  Undefined variable: product in /home3/grupoc19/public_html/login/sistema/get_products.php on line 10
+[10-Feb-2020 12:58:22 UTC] PHP Notice:  Undefined variable: product in /home3/grupoc19/public_html/login/sistema/get_products.php on line 10
+[10-Feb-2020 12:58:22 UTC] PHP Notice:  Undefined variable: product in /home3/grupoc19/public_html/login/sistema/get_products.php on line 10
+[10-Feb-2020 12:58:22 UTC] PHP Notice:  Undefined variable: product in /home3/grupoc19/public_html/login/sistema/get_products.php on line 10
+[10-Feb-2020 12:58:22 UTC] PHP Notice:  Undefined variable: product in /home3/grupoc19/public_html/login/sistema/get_products.php on line 10
+[10-Feb-2020 12:58:22 UTC] PHP Notice:  Undefined variable: product in /home3/grupoc19/public_html/login/sistema/get_products.php on line 10
+[10-Feb-2020 12:58:22 UTC] PHP Notice:  Undefined variable: product in /home3/grupoc19/public_html/login/sistema/get_products.php on line 10
+[10-Feb-2020 12:58:22 UTC] PHP Notice:  Undefined variable: product in /home3/grupoc19/public_html/login/sistema/get_products.php on line 10
+[10-Feb-2020 12:58:22 UTC] PHP Notice:  Undefined variable: product in /home3/grupoc19/public_html/login/sistema/get_products.php on line 10
+[10-Feb-2020 12:58:22 UTC] PHP Notice:  Undefined variable: product in /home3/grupoc19/public_html/login/sistema/get_products.php on line 10
+[10-Feb-2020 12:58:22 UTC] PHP Notice:  Undefined variable: product in /home3/grupoc19/public_html/login/sistema/get_products.php on line 10
+[10-Feb-2020 12:58:22 UTC] PHP Notice:  Undefined variable: product in /home3/grupoc19/public_html/login/sistema/get_products.php on line 10
+[10-Feb-2020 12:58:22 UTC] PHP Notice:  Undefined variable: product in /home3/grupoc19/public_html/login/sistema/get_products.php on line 10
+[10-Feb-2020 12:58:22 UTC] PHP Notice:  Undefined variable: product in /home3/grupoc19/public_html/login/sistema/get_products.php on line 10
+[10-Feb-2020 12:58:22 UTC] PHP Notice:  Undefined variable: product in /home3/grupoc19/public_html/login/sistema/get_products.php on line 10
+[10-Feb-2020 12:58:22 UTC] PHP Notice:  Undefined variable: product in /home3/grupoc19/public_html/login/sistema/get_products.php on line 10
+[10-Feb-2020 12:58:22 UTC] PHP Notice:  Undefined variable: product in /home3/grupoc19/public_html/login/sistema/get_products.php on line 10
+[10-Feb-2020 12:58:22 UTC] PHP Notice:  Undefined variable: product in /home3/grupoc19/public_html/login/sistema/get_products.php on line 10
+[10-Feb-2020 12:58:22 UTC] PHP Notice:  Undefined variable: product in /home3/grupoc19/public_html/login/sistema/get_products.php on line 10
+[10-Feb-2020 12:58:22 UTC] PHP Notice:  Undefined variable: product in /home3/grupoc19/public_html/login/sistema/get_products.php on line 10
+[10-Feb-2020 12:58:22 UTC] PHP Notice:  Undefined variable: product in /home3/grupoc19/public_html/login/sistema/get_products.php on line 10
+[10-Feb-2020 12:58:22 UTC] PHP Notice:  Undefined variable: product in /home3/grupoc19/public_html/login/sistema/get_products.php on line 10
+[10-Feb-2020 12:58:22 UTC] PHP Notice:  Undefined variable: product in /home3/grupoc19/public_html/login/sistema/get_products.php on line 10
+[10-Feb-2020 12:58:22 UTC] PHP Notice:  Undefined variable: product in /home3/grupoc19/public_html/login/sistema/get_products.php on line 10
+[10-Feb-2020 12:58:22 UTC] PHP Notice:  Undefined variable: product in /home3/grupoc19/public_html/login/sistema/get_products.php on line 10
+[10-Feb-2020 12:58:22 UTC] PHP Notice:  Undefined variable: product in /home3/grupoc19/public_html/login/sistema/get_products.php on line 10
+[10-Feb-2020 12:58:22 UTC] PHP Notice:  Undefined variable: product in /home3/grupoc19/public_html/login/sistema/get_products.php on line 10
+[10-Feb-2020 12:58:22 UTC] PHP Notice:  Undefined variable: product in /home3/grupoc19/public_html/login/sistema/get_products.php on line 10
+[10-Feb-2020 12:58:22 UTC] PHP Notice:  Undefined variable: product in /home3/grupoc19/public_html/login/sistema/get_products.php on line 10
+[10-Feb-2020 12:58:22 UTC] PHP Notice:  Undefined variable: product in /home3/grupoc19/public_html/login/sistema/get_products.php on line 10
+[10-Feb-2020 12:58:22 UTC] PHP Notice:  Undefined variable: product in /home3/grupoc19/public_html/login/sistema/get_products.php on line 10
+[10-Feb-2020 12:58:22 UTC] PHP Notice:  Undefined variable: product in /home3/grupoc19/public_html/login/sistema/get_products.php on line 10
+[10-Feb-2020 12:58:22 UTC] PHP Notice:  Undefined variable: product in /home3/grupoc19/public_html/login/sistema/get_products.php on line 10
+[10-Feb-2020 12:58:22 UTC] PHP Notice:  Undefined variable: product in /home3/grupoc19/public_html/login/sistema/get_products.php on line 10
+[10-Feb-2020 12:58:22 UTC] PHP Notice:  Undefined variable: product in /home3/grupoc19/public_html/login/sistema/get_products.php on line 10
+[10-Feb-2020 12:58:22 UTC] PHP Notice:  Undefined variable: product in /home3/grupoc19/public_html/login/sistema/get_products.php on line 10
+[10-Feb-2020 12:58:22 UTC] PHP Notice:  Undefined variable: product in /home3/grupoc19/public_html/login/sistema/get_products.php on line 10
+[10-Feb-2020 12:58:22 UTC] PHP Notice:  Undefined variable: product in /home3/grupoc19/public_html/login/sistema/get_products.php on line 10
+[10-Feb-2020 12:58:22 UTC] PHP Notice:  Undefined variable: product in /home3/grupoc19/public_html/login/sistema/get_products.php on line 10
+[10-Feb-2020 12:58:22 UTC] PHP Notice:  Undefined variable: product in /home3/grupoc19/public_html/login/sistema/get_products.php on line 10
+[10-Feb-2020 12:58:22 UTC] PHP Notice:  Undefined variable: product in /home3/grupoc19/public_html/login/sistema/get_products.php on line 10
+[10-Feb-2020 12:58:22 UTC] PHP Notice:  Undefined variable: product in /home3/grupoc19/public_html/login/sistema/get_products.php on line 10
+[10-Feb-2020 12:58:22 UTC] PHP Notice:  Undefined variable: product in /home3/grupoc19/public_html/login/sistema/get_products.php on line 10
+[10-Feb-2020 12:58:22 UTC] PHP Notice:  Undefined variable: product in /home3/grupoc19/public_html/login/sistema/get_products.php on line 10
+[10-Feb-2020 12:58:22 UTC] PHP Notice:  Undefined variable: product in /home3/grupoc19/public_html/login/sistema/get_products.php on line 10
+[10-Feb-2020 12:58:22 UTC] PHP Notice:  Undefined variable: product in /home3/grupoc19/public_html/login/sistema/get_products.php on line 10
+[10-Feb-2020 12:58:22 UTC] PHP Notice:  Undefined variable: product in /home3/grupoc19/public_html/login/sistema/get_products.php on line 10
+[10-Feb-2020 12:58:22 UTC] PHP Notice:  Undefined variable: product in /home3/grupoc19/public_html/login/sistema/get_products.php on line 10
+[10-Feb-2020 12:58:22 UTC] PHP Notice:  Undefined variable: product in /home3/grupoc19/public_html/login/sistema/get_products.php on line 10
+[10-Feb-2020 12:58:22 UTC] PHP Notice:  Undefined variable: product in /home3/grupoc19/public_html/login/sistema/get_products.php on line 10
+[10-Feb-2020 12:58:22 UTC] PHP Notice:  Undefined variable: product in /home3/grupoc19/public_html/login/sistema/get_products.php on line 10
+[10-Feb-2020 12:58:22 UTC] PHP Notice:  Undefined variable: product in /home3/grupoc19/public_html/login/sistema/get_products.php on line 10
+[10-Feb-2020 12:58:22 UTC] PHP Notice:  Undefined variable: product in /home3/grupoc19/public_html/login/sistema/get_products.php on line 10
+[10-Feb-2020 13:28:49 UTC] PHP Notice:  Undefined index: imagen in /home3/grupoc19/public_html/login/sistema/add_product.php on line 9
+[10-Feb-2020 16:41:09 UTC] PHP Notice:  Undefined index: imagen in /home3/grupoc19/public_html/login/sistema/add_product.php on line 9
+[10-Feb-2020 16:48:36 UTC] PHP Notice:  Undefined index: imagen in /home3/grupoc19/public_html/login/sistema/add_product.php on line 9
+[10-Feb-2020 16:51:07 UTC] PHP Notice:  Undefined index: imagen in /home3/grupoc19/public_html/login/sistema/add_product.php on line 9
+[10-Feb-2020 17:13:52 UTC] PHP Warning:  file_get_contents(https://elestan.co/api/add_product.php?nombre=sadsad&amp;descripcion=%7Csdsadas&amp;imagen=512x512.png&amp;imagen_data=iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAYAAAD0eNT6AACIE0lEQVR42uydX4hUVRzHz%2Bg6smWzdu62d8YpsKxgR4vowQ1MiSJ6iZbW4U6iYgSFrhFCID5IIG1CRARRWLhC9ZAvkbDuPoQQPVi74oOIFLhrRtRWiyatbSvOzrZ9ziw0kAyTy%2F6Zvef7gS%2Fnnjszq%2Feey%2Fn%2Bzjn3d68RYi4JC8HSdBTk0pHdj74OC%2FZyuhCUUBENU%2B9LF%2BxOtrNGCCGEEIubMLINmPtD6C3M%2FXs0iaaqqIhOEwhs53eNRgghhBCLCwx%2FOdrAaP9D9GvF5GuL2YJr%2FPZdAgFrhBBCCFH%2FYPa3MNX%2FJOb9KSZ%2BxRn6zGQnKT9AK4wQQggh6pMwCprQs5h%2FD7qKapt87ZmAIn9zjxFCCCFEfYFJN4eR3Y6%2BxKyvOeOeVUXBRcpWI4QQQoiFJczfnsDws5jzbgKAAab6i86s50r8%2FYNGCCGEEAs22l%2FC2vwajH8fAcA5ylLFqOc0ABhCa4wQQggh5jeVD%2BNf50bilBfQ386Y50%2FWBQH7jKjJ6h3ZhJMRQgghZgqmm0Rt6ci%2Bh352Zrxwsmf5P%2BghQVXaifOznvOzdzpzwh5iduYA%2B3eiDmZuHmVfK59nUGq6XQMFCUIIIW5I5WvEQB5DH2EWl%2BbJ5GunBUZBpxH%2Fzb64E71PO%2F1eZeZkArP%2Fk%2B3faNfzqJ%2Ft4%2Bw77IIE6rv4bgf7NrIvx%2FYqynKQkImaFSQIIYQPYAi30fk%2FTfkZxvAHJSZSR4rsNxhVsxFlnFlj%2Fn3hTNup8rsSGkMjaBDzH0A9nO9 in /home3/grupoc19/public_html/login/sistema/add_product.php on line 17
+[10-Feb-2020 21:49:43 UTC] PHP Notice:  Undefined index: municipio in /home3/grupoc19/public_html/login/sistema/add_sucursal.php on line 11
+[10-Feb-2020 21:50:02 UTC] PHP Notice:  Undefined index: municipio in /home3/grupoc19/public_html/login/sistema/add_sucursal.php on line 11
+[11-Feb-2020 21:05:31 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home3/grupoc19/public_html/login/sistema/add_product.php on line 10
+[12-Feb-2020 15:47:21 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home3/grupoc19/public_html/login/sistema/logout.php on line 3
+[12-Feb-2020 15:47:29 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home3/grupoc19/public_html/login/sistema/logout.php on line 3
+[19-Feb-2020 16:02:30 UTC] PHP Warning:  file_get_contents(https://elestan.co/api/get_pedidos.php?u32=yorksgomez%40hotmail.com&amp;cpno=6ca13d52ca70c883e0f0bb101e425a89e8624de51db2d2392593af6a84118090): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home3/grupoc19/public_html/login/sistema/get_pedidos.php on line 9
+[19-Feb-2020 16:02:30 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home3/grupoc19/public_html/login/sistema/get_pedidos.php on line 13
+[19-Feb-2020 16:02:33 UTC] PHP Warning:  file_get_contents(https://elestan.co/api/get_products.php?params=categoria=&amp;u32=yorksgomez%40hotmail.com&amp;cpno=6ca13d52ca70c883e0f0bb101e425a89e8624de51db2d2392593af6a84118090): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home3/grupoc19/public_html/login/sistema/get_products.php on line 4
+[19-Feb-2020 16:02:34 UTC] PHP Warning:  file_get_contents(https://elestan.co/api/get_pedidos.php?u32=yorksgomez%40hotmail.com&amp;cpno=6ca13d52ca70c883e0f0bb101e425a89e8624de51db2d2392593af6a84118090): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home3/grupoc19/public_html/login/sistema/get_pedidos.php on line 9
+[19-Feb-2020 16:02:34 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home3/grupoc19/public_html/login/sistema/get_pedidos.php on line 13
+[19-Feb-2020 16:03:36 UTC] PHP Warning:  file_get_contents(https://elestan.co/api/get_products.php?params=categoria=&amp;u32=yorksgomez%40hotmail.com&amp;cpno=6ca13d52ca70c883e0f0bb101e425a89e8624de51db2d2392593af6a84118090): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home3/grupoc19/public_html/login/sistema/get_products.php on line 4
+[21-Feb-2020 09:44:32 America/Bogota] PHP Notice:  Array to string conversion in /home3/grupoc19/public_html/login/sistema/update_product.php on line 7
+[21-Feb-2020 11:06:03 America/Bogota] PHP Notice:  Undefined offset: 5 in /home3/grupoc19/public_html/login/sistema/get_usuarios.php on line 10
+[21-Feb-2020 11:06:03 America/Bogota] PHP Notice:  Undefined offset: 5 in /home3/grupoc19/public_html/login/sistema/get_usuarios.php on line 10
+[21-Feb-2020 11:06:03 America/Bogota] PHP Notice:  Undefined offset: 5 in /home3/grupoc19/public_html/login/sistema/get_usuarios.php on line 10
+[21-Feb-2020 11:06:03 America/Bogota] PHP Notice:  Undefined offset: 5 in /home3/grupoc19/public_html/login/sistema/get_usuarios.php on line 10
+[21-Feb-2020 11:06:03 America/Bogota] PHP Notice:  Undefined offset: 5 in /home3/grupoc19/public_html/login/sistema/get_usuarios.php on line 10
+[21-Feb-2020 11:06:03 America/Bogota] PHP Notice:  Undefined offset: 5 in /home3/grupoc19/public_html/login/sistema/get_usuarios.php on line 10
+[21-Feb-2020 11:06:03 America/Bogota] PHP Notice:  Undefined offset: 5 in /home3/grupoc19/public_html/login/sistema/get_usuarios.php on line 10
+[21-Feb-2020 11:06:03 America/Bogota] PHP Notice:  Undefined offset: 5 in /home3/grupoc19/public_html/login/sistema/get_usuarios.php on line 10
+[21-Feb-2020 11:06:03 America/Bogota] PHP Notice:  Undefined offset: 5 in /home3/grupoc19/public_html/login/sistema/get_usuarios.php on line 10
+[21-Feb-2020 11:06:03 America/Bogota] PHP Notice:  Undefined offset: 5 in /home3/grupoc19/public_html/login/sistema/get_usuarios.php on line 10
+[21-Feb-2020 11:06:03 America/Bogota] PHP Notice:  Undefined offset: 5 in /home3/grupoc19/public_html/login/sistema/get_usuarios.php on line 10
+[21-Feb-2020 11:06:03 America/Bogota] PHP Notice:  Undefined offset: 5 in /home3/grupoc19/public_html/login/sistema/get_usuarios.php on line 10
+[21-Feb-2020 11:06:03 America/Bogota] PHP Notice:  Undefined offset: 5 in /home3/grupoc19/public_html/login/sistema/get_usuarios.php on line 10
+[21-Feb-2020 11:06:03 America/Bogota] PHP Notice:  Undefined offset: 5 in /home3/grupoc19/public_html/login/sistema/get_usuarios.php on line 10
+[21-Feb-2020 11:06:03 America/Bogota] PHP Notice:  Undefined offset: 5 in /home3/grupoc19/public_html/login/sistema/get_usuarios.php on line 10
+[21-Feb-2020 11:06:03 America/Bogota] PHP Notice:  Undefined offset: 5 in /home3/grupoc19/public_html/login/sistema/get_usuarios.php on line 10
+[21-Feb-2020 11:06:03 America/Bogota] PHP Notice:  Undefined offset: 5 in /home3/grupoc19/public_html/login/sistema/get_usuarios.php on line 10
+[21-Feb-2020 11:06:03 America/Bogota] PHP Notice:  Undefined offset: 5 in /home3/grupoc19/public_html/login/sistema/get_usuarios.php on line 10
+[21-Feb-2020 13:56:47 America/Bogota] PHP Warning:  file_get_contents(https://elestan.co/api/update_account.php?params=usuarios.nombre%3Dholaaaa%3Busuarios.correo%3D%3Busuarios.telefono%3D%3Busuarios.contrasena%3D&amp;id=7&amp;u32=yorksgomez%40hotmail.com&amp;cpno=6ca13d52ca70c883e0f0bb101e425a89e8624de51db2d2392593af6a84118090): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home3/grupoc19/public_html/login/sistema/update_account.php on line 22
+[25-Feb-2020 14:14:27 America/Bogota] PHP Parse error:  syntax error, unexpected '}', expecting ';' in /home3/grupoc19/public_html/login/sistema/update_product.php on line 16
+[25-Feb-2020 14:17:24 America/Bogota] PHP Parse error:  syntax error, unexpected '}', expecting ';' in /home3/grupoc19/public_html/login/sistema/update_product.php on line 17
+[25-Feb-2020 14:18:12 America/Bogota] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/grupoc19/public_html/login/app_constants.php on line 4
+[25-Feb-2020 14:19:16 America/Bogota] PHP Parse error:  syntax error, unexpected '}', expecting ';' in /home3/grupoc19/public_html/login/sistema/update_product.php on line 17
+[25-Feb-2020 14:19:37 America/Bogota] PHP Parse error:  syntax error, unexpected '}', expecting ';' in /home3/grupoc19/public_html/login/sistema/update_product.php on line 17
+[25-Feb-2020 14:19:47 America/Bogota] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ')' in /home3/grupoc19/public_html/login/sistema/update_product.php on line 23
+[25-Feb-2020 14:19:49 America/Bogota] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ')' in /home3/grupoc19/public_html/login/sistema/update_product.php on line 23
+[25-Feb-2020 14:19:59 America/Bogota] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ')' in /home3/grupoc19/public_html/login/sistema/update_product.php on line 23
+[25-Feb-2020 14:20:33 America/Bogota] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ')' in /home3/grupoc19/public_html/login/sistema/update_product.php on line 23
+[25-Feb-2020 14:21:03 America/Bogota] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ')' in /home3/grupoc19/public_html/login/sistema/update_product.php on line 23
+[25-Feb-2020 14:21:05 America/Bogota] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ')' in /home3/grupoc19/public_html/login/sistema/update_product.php on line 23
+[25-Feb-2020 14:21:12 America/Bogota] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ')' in /home3/grupoc19/public_html/login/sistema/update_product.php on line 23
+[25-Feb-2020 14:21:24 America/Bogota] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ')' in /home3/grupoc19/public_html/login/sistema/update_product.php on line 23
+[25-Feb-2020 14:21:25 America/Bogota] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ')' in /home3/grupoc19/public_html/login/sistema/update_product.php on line 23
+[25-Feb-2020 14:21:35 America/Bogota] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ')' in /home3/grupoc19/public_html/login/sistema/update_product.php on line 23
+[25-Feb-2020 14:21:50 America/Bogota] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ')' in /home3/grupoc19/public_html/login/sistema/update_product.php on line 23
+[25-Feb-2020 14:23:41 America/Bogota] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/grupoc19/public_html/login/app_constants.php on line 4
+[25-Feb-2020 14:23:41 America/Bogota] PHP Warning:  http_build_query() expects at least 1 parameter, 0 given in /home3/grupoc19/public_html/login/sistema/update_product.php on line 24
+[25-Feb-2020 14:25:10 America/Bogota] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/grupoc19/public_html/login/app_constants.php on line 4
+[25-Feb-2020 14:25:10 America/Bogota] PHP Notice:  Undefined variable: credentials in /home3/grupoc19/public_html/login/sistema/update_product.php on line 23
+[25-Feb-2020 14:25:10 America/Bogota] PHP Warning:  http_build_query() expects at least 1 parameter, 0 given in /home3/grupoc19/public_html/login/sistema/update_product.php on line 24
+[25-Feb-2020 14:25:30 America/Bogota] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/grupoc19/public_html/login/app_constants.php on line 4
+[25-Feb-2020 14:25:30 America/Bogota] PHP Notice:  Undefined variable: credentials in /home3/grupoc19/public_html/login/sistema/update_product.php on line 23
+[25-Feb-2020 14:25:30 America/Bogota] PHP Warning:  http_build_query() expects at least 1 parameter, 0 given in /home3/grupoc19/public_html/login/sistema/update_product.php on line 24
+[25-Feb-2020 14:26:06 America/Bogota] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/grupoc19/public_html/login/app_constants.php on line 4
+[25-Feb-2020 14:26:06 America/Bogota] PHP Notice:  Undefined variable: credentials in /home3/grupoc19/public_html/login/sistema/update_product.php on line 23
+[25-Feb-2020 14:26:06 America/Bogota] PHP Warning:  http_build_query() expects at least 1 parameter, 0 given in /home3/grupoc19/public_html/login/sistema/update_product.php on line 24
+[25-Feb-2020 14:26:54 America/Bogota] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/grupoc19/public_html/login/app_constants.php on line 4
+[25-Feb-2020 14:26:54 America/Bogota] PHP Notice:  Undefined variable: credentials in /home3/grupoc19/public_html/login/sistema/update_product.php on line 23
+[25-Feb-2020 14:26:54 America/Bogota] PHP Warning:  http_build_query() expects at least 1 parameter, 0 given in /home3/grupoc19/public_html/login/sistema/update_product.php on line 24
+[25-Feb-2020 14:26:56 America/Bogota] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/grupoc19/public_html/login/app_constants.php on line 4
+[25-Feb-2020 14:26:56 America/Bogota] PHP Notice:  Undefined variable: credentials in /home3/grupoc19/public_html/login/sistema/update_product.php on line 23
+[25-Feb-2020 14:26:56 America/Bogota] PHP Warning:  http_build_query() expects at least 1 parameter, 0 given in /home3/grupoc19/public_html/login/sistema/update_product.php on line 24
+[25-Feb-2020 14:27:29 America/Bogota] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/grupoc19/public_html/login/app_constants.php on line 4
+[25-Feb-2020 14:27:29 America/Bogota] PHP Notice:  Undefined variable: credentials in /home3/grupoc19/public_html/login/sistema/update_product.php on line 23
+[25-Feb-2020 14:27:29 America/Bogota] PHP Warning:  http_build_query() expects at least 1 parameter, 0 given in /home3/grupoc19/public_html/login/sistema/update_product.php on line 24
+[25-Feb-2020 14:28:19 America/Bogota] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/grupoc19/public_html/login/app_constants.php on line 4
+[25-Feb-2020 14:28:19 America/Bogota] PHP Notice:  Undefined variable: credentials in /home3/grupoc19/public_html/login/sistema/update_product.php on line 23
+[25-Feb-2020 14:28:19 America/Bogota] PHP Warning:  http_build_query() expects at least 1 parameter, 0 given in /home3/grupoc19/public_html/login/sistema/update_product.php on line 24
+[26-Feb-2020 09:00:50 America/Bogota] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/grupoc19/public_html/login/app_constants.php on line 4
+[26-Feb-2020 09:00:50 America/Bogota] PHP Notice:  Undefined variable: credentials in /home3/grupoc19/public_html/login/sistema/update_product.php on line 23
+[26-Feb-2020 09:00:50 America/Bogota] PHP Warning:  http_build_query() expects at least 1 parameter, 0 given in /home3/grupoc19/public_html/login/sistema/update_product.php on line 24
+[26-Feb-2020 09:01:17 America/Bogota] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/grupoc19/public_html/login/app_constants.php on line 4
+[26-Feb-2020 09:01:17 America/Bogota] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/grupoc19/public_html/login/app_constants.php on line 6
+[26-Feb-2020 09:01:17 America/Bogota] PHP Notice:  Undefined variable: credentials in /home3/grupoc19/public_html/login/sistema/update_product.php on line 23
+[26-Feb-2020 09:01:17 America/Bogota] PHP Warning:  http_build_query() expects at least 1 parameter, 0 given in /home3/grupoc19/public_html/login/sistema/update_product.php on line 24
+[26-Feb-2020 09:01:34 America/Bogota] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/grupoc19/public_html/login/app_constants.php on line 4
+[26-Feb-2020 09:01:34 America/Bogota] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/grupoc19/public_html/login/app_constants.php on line 6
+[26-Feb-2020 09:01:34 America/Bogota] PHP Notice:  Undefined variable: credentials in /home3/grupoc19/public_html/login/sistema/update_product.php on line 23
+[26-Feb-2020 09:01:34 America/Bogota] PHP Warning:  http_build_query() expects at least 1 parameter, 0 given in /home3/grupoc19/public_html/login/sistema/update_product.php on line 24
+[26-Feb-2020 09:02:18 America/Bogota] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/grupoc19/public_html/login/app_constants.php on line 4
+[26-Feb-2020 09:02:18 America/Bogota] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/grupoc19/public_html/login/app_constants.php on line 6
+[26-Feb-2020 09:02:18 America/Bogota] PHP Notice:  Undefined variable: credentials in /home3/grupoc19/public_html/login/sistema/update_product.php on line 23
+[26-Feb-2020 09:02:18 America/Bogota] PHP Warning:  http_build_query() expects at least 1 parameter, 0 given in /home3/grupoc19/public_html/login/sistema/update_product.php on line 24
+[26-Feb-2020 09:02:30 America/Bogota] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/grupoc19/public_html/login/app_constants.php on line 4
+[26-Feb-2020 09:02:30 America/Bogota] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/grupoc19/public_html/login/app_constants.php on line 6
+[26-Feb-2020 09:02:30 America/Bogota] PHP Notice:  Undefined variable: credentials in /home3/grupoc19/public_html/login/sistema/update_product.php on line 23
+[26-Feb-2020 09:02:30 America/Bogota] PHP Warning:  http_build_query() expects at least 1 parameter, 0 given in /home3/grupoc19/public_html/login/sistema/update_product.php on line 24
+[26-Feb-2020 09:03:13 America/Bogota] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/grupoc19/public_html/login/app_constants.php on line 4
+[26-Feb-2020 09:03:13 America/Bogota] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/grupoc19/public_html/login/app_constants.php on line 6
+[26-Feb-2020 09:03:13 America/Bogota] PHP Notice:  Undefined variable: credentials in /home3/grupoc19/public_html/login/sistema/update_product.php on line 23
+[26-Feb-2020 09:03:13 America/Bogota] PHP Warning:  http_build_query() expects at least 1 parameter, 0 given in /home3/grupoc19/public_html/login/sistema/update_product.php on line 24
+[26-Feb-2020 09:03:26 America/Bogota] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/grupoc19/public_html/login/app_constants.php on line 4
+[26-Feb-2020 09:03:26 America/Bogota] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/grupoc19/public_html/login/app_constants.php on line 6
+[26-Feb-2020 09:03:26 America/Bogota] PHP Notice:  Undefined variable: credentials in /home3/grupoc19/public_html/login/sistema/update_product.php on line 23
+[26-Feb-2020 09:03:26 America/Bogota] PHP Warning:  http_build_query() expects at least 1 parameter, 0 given in /home3/grupoc19/public_html/login/sistema/update_product.php on line 24
+[26-Feb-2020 09:04:46 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home3/grupoc19/public_html/login/app_constants.php on line 6
+[26-Feb-2020 09:04:49 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home3/grupoc19/public_html/login/app_constants.php on line 6
+[26-Feb-2020 09:05:05 America/Bogota] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/grupoc19/public_html/login/app_constants.php on line 4
+[26-Feb-2020 09:05:05 America/Bogota] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/grupoc19/public_html/login/app_constants.php on line 6
+[26-Feb-2020 09:05:05 America/Bogota] PHP Notice:  Undefined variable: credentials in /home3/grupoc19/public_html/login/sistema/update_product.php on line 23
+[26-Feb-2020 09:05:05 America/Bogota] PHP Warning:  http_build_query() expects at least 1 parameter, 0 given in /home3/grupoc19/public_html/login/sistema/update_product.php on line 24
+[26-Feb-2020 09:05:21 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home3/grupoc19/public_html/login/app_constants.php on line 6
+[26-Feb-2020 09:06:05 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home3/grupoc19/public_html/login/app_constants.php on line 6
+[26-Feb-2020 09:06:13 America/Bogota] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/grupoc19/public_html/login/app_constants.php on line 4
+[26-Feb-2020 09:06:13 America/Bogota] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/grupoc19/public_html/login/app_constants.php on line 6
+[26-Feb-2020 09:06:13 America/Bogota] PHP Notice:  Undefined variable: credentials in /home3/grupoc19/public_html/login/sistema/update_product.php on line 23
+[26-Feb-2020 09:06:13 America/Bogota] PHP Warning:  http_build_query() expects at least 1 parameter, 0 given in /home3/grupoc19/public_html/login/sistema/update_product.php on line 24
+[26-Feb-2020 09:09:05 America/Bogota] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/grupoc19/public_html/login/app_constants.php on line 4
+[26-Feb-2020 09:09:05 America/Bogota] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/grupoc19/public_html/login/app_constants.php on line 6
+[26-Feb-2020 09:09:05 America/Bogota] PHP Notice:  Undefined variable: credentials in /home3/grupoc19/public_html/login/sistema/update_product.php on line 23
+[26-Feb-2020 09:09:05 America/Bogota] PHP Warning:  http_build_query() expects at least 1 parameter, 0 given in /home3/grupoc19/public_html/login/sistema/update_product.php on line 24
+[26-Feb-2020 09:11:07 America/Bogota] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/grupoc19/public_html/login/app_constants.php on line 4
+[26-Feb-2020 09:11:07 America/Bogota] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/grupoc19/public_html/login/app_constants.php on line 6
+[26-Feb-2020 09:11:07 America/Bogota] PHP Notice:  Undefined variable: credentials in /home3/grupoc19/public_html/login/sistema/update_product.php on line 23
+[26-Feb-2020 09:11:07 America/Bogota] PHP Warning:  http_build_query() expects at least 1 parameter, 0 given in /home3/grupoc19/public_html/login/sistema/update_product.php on line 24
+[26-Feb-2020 09:11:08 America/Bogota] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/grupoc19/public_html/login/app_constants.php on line 4
+[26-Feb-2020 09:11:08 America/Bogota] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/grupoc19/public_html/login/app_constants.php on line 6
+[26-Feb-2020 09:11:08 America/Bogota] PHP Notice:  Undefined variable: credentials in /home3/grupoc19/public_html/login/sistema/update_product.php on line 23
+[26-Feb-2020 09:11:08 America/Bogota] PHP Warning:  http_build_query() expects at least 1 parameter, 0 given in /home3/grupoc19/public_html/login/sistema/update_product.php on line 24
+[26-Feb-2020 09:11:37 America/Bogota] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/grupoc19/public_html/login/app_constants.php on line 6
+[26-Feb-2020 09:11:37 America/Bogota] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/grupoc19/public_html/login/app_constants.php on line 8
+[26-Feb-2020 09:11:37 America/Bogota] PHP Notice:  Undefined variable: credentials in /home3/grupoc19/public_html/login/sistema/update_product.php on line 23
+[26-Feb-2020 09:11:37 America/Bogota] PHP Warning:  http_build_query() expects at least 1 parameter, 0 given in /home3/grupoc19/public_html/login/sistema/update_product.php on line 24
+[26-Feb-2020 09:11:39 America/Bogota] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/grupoc19/public_html/login/app_constants.php on line 6
+[26-Feb-2020 09:11:39 America/Bogota] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/grupoc19/public_html/login/app_constants.php on line 8
+[26-Feb-2020 09:11:39 America/Bogota] PHP Notice:  Undefined variable: credentials in /home3/grupoc19/public_html/login/sistema/update_product.php on line 23
+[26-Feb-2020 09:11:39 America/Bogota] PHP Warning:  http_build_query() expects at least 1 parameter, 0 given in /home3/grupoc19/public_html/login/sistema/update_product.php on line 24
+[26-Feb-2020 09:11:50 America/Bogota] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/grupoc19/public_html/login/app_constants.php on line 6
+[26-Feb-2020 09:11:50 America/Bogota] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/grupoc19/public_html/login/app_constants.php on line 8
+[26-Feb-2020 09:11:50 America/Bogota] PHP Notice:  Undefined variable: credentials in /home3/grupoc19/public_html/login/sistema/update_product.php on line 23
+[26-Feb-2020 09:11:50 America/Bogota] PHP Warning:  http_build_query() expects at least 1 parameter, 0 given in /home3/grupoc19/public_html/login/sistema/update_product.php on line 24
+[26-Feb-2020 09:11:51 America/Bogota] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/grupoc19/public_html/login/app_constants.php on line 6
+[26-Feb-2020 09:11:51 America/Bogota] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/grupoc19/public_html/login/app_constants.php on line 8
+[26-Feb-2020 09:11:51 America/Bogota] PHP Notice:  Undefined variable: credentials in /home3/grupoc19/public_html/login/sistema/update_product.php on line 23
+[26-Feb-2020 09:11:51 America/Bogota] PHP Warning:  http_build_query() expects at least 1 parameter, 0 given in /home3/grupoc19/public_html/login/sistema/update_product.php on line 24
+[26-Feb-2020 09:12:29 America/Bogota] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/grupoc19/public_html/login/app_constants.php on line 6
+[26-Feb-2020 09:12:29 America/Bogota] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/grupoc19/public_html/login/app_constants.php on line 8
+[26-Feb-2020 09:12:29 America/Bogota] PHP Notice:  Undefined variable: credentials in /home3/grupoc19/public_html/login/sistema/update_product.php on line 23
+[26-Feb-2020 09:12:29 America/Bogota] PHP Warning:  http_build_query() expects at least 1 parameter, 0 given in /home3/grupoc19/public_html/login/sistema/update_product.php on line 24
+[26-Feb-2020 09:14:02 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home3/grupoc19/public_html/login/app_constants.php on line 8
+[26-Feb-2020 09:14:29 America/Bogota] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/grupoc19/public_html/login/app_constants.php on line 6
+[26-Feb-2020 09:14:29 America/Bogota] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/grupoc19/public_html/login/app_constants.php on line 8
+[26-Feb-2020 09:14:29 America/Bogota] PHP Notice:  Undefined variable: credentials in /home3/grupoc19/public_html/login/sistema/update_product.php on line 23
+[26-Feb-2020 09:14:29 America/Bogota] PHP Warning:  http_build_query() expects at least 1 parameter, 0 given in /home3/grupoc19/public_html/login/sistema/update_product.php on line 24
+[26-Feb-2020 09:19:59 America/Bogota] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/grupoc19/public_html/login/app_constants.php on line 6
+[26-Feb-2020 09:19:59 America/Bogota] PHP Notice:  Undefined variable: credentials in /home3/grupoc19/public_html/login/sistema/update_product.php on line 24
+[26-Feb-2020 09:19:59 America/Bogota] PHP Warning:  http_build_query() expects at least 1 parameter, 0 given in /home3/grupoc19/public_html/login/sistema/update_product.php on line 25
+[26-Feb-2020 09:20:53 America/Bogota] PHP Warning:  http_build_query() expects at least 1 parameter, 0 given in /home3/grupoc19/public_html/login/sistema/update_product.php on line 25
+[26-Feb-2020 09:21:21 America/Bogota] PHP Warning:  http_build_query() expects at least 1 parameter, 0 given in /home3/grupoc19/public_html/login/sistema/update_product.php on line 25
+[26-Feb-2020 09:21:29 America/Bogota] PHP Warning:  http_build_query() expects at least 1 parameter, 0 given in /home3/grupoc19/public_html/login/sistema/update_product.php on line 23
+[26-Feb-2020 09:22:01 America/Bogota] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ')' in /home3/grupoc19/public_html/login/sistema/update_product.php on line 21
+[26-Feb-2020 09:22:04 America/Bogota] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ')' in /home3/grupoc19/public_html/login/sistema/update_product.php on line 21
+[26-Feb-2020 09:22:29 America/Bogota] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ')' in /home3/grupoc19/public_html/login/sistema/update_product.php on line 24
+[26-Feb-2020 09:22:51 America/Bogota] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ')' in /home3/grupoc19/public_html/login/sistema/update_product.php on line 24
+[26-Feb-2020 09:23:07 America/Bogota] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ')' in /home3/grupoc19/public_html/login/sistema/update_product.php on line 24
+[26-Feb-2020 09:23:24 America/Bogota] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ')' in /home3/grupoc19/public_html/login/sistema/update_product.php on line 27
+[26-Feb-2020 09:23:37 America/Bogota] PHP Warning:  http_build_query() expects at least 1 parameter, 0 given in /home3/grupoc19/public_html/login/sistema/update_product.php on line 27
+[26-Feb-2020 09:44:29 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/grupoc19/public_html/login/sistema/update_product.php:37) in /home3/grupoc19/public_html/login/sistema/update_product.php on line 41
+[26-Feb-2020 09:44:57 America/Bogota] PHP Warning:  file_get_contents(): Filename cannot be empty in /home3/grupoc19/public_html/login/sistema/update_product.php on line 22
+[26-Feb-2020 09:45:09 America/Bogota] PHP Warning:  file_get_contents(): Filename cannot be empty in /home3/grupoc19/public_html/login/sistema/update_product.php on line 22
+[18-Mar-2020 12:09:48 America/Bogota] PHP Warning:  file_get_contents(): Filename cannot be empty in /home3/grupoc19/public_html/login/sistema/add_product.php on line 10
+[18-Mar-2020 13:53:02 America/Bogota] PHP Warning:  file_get_contents(): Filename cannot be empty in /home3/grupoc19/public_html/login/sistema/add_product.php on line 10
+[29-Mar-2020 07:05:30 America/Bogota] PHP Notice:  Undefined index: subcategoria in /home3/grupoc19/public_html/login/sistema/add_product.php on line 13
+[11-Apr-2020 19:04:14 America/Bogota] PHP Warning:  include(get_inventario.php): failed to open stream: No such file or directory in /home3/grupoc19/public_html/login/sistema/inventario.php on line 109
+[11-Apr-2020 19:04:14 America/Bogota] PHP Warning:  include(get_inventario.php): failed to open stream: No such file or directory in /home3/grupoc19/public_html/login/sistema/inventario.php on line 109
+[11-Apr-2020 19:04:14 America/Bogota] PHP Warning:  include(): Failed opening 'get_inventario.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home3/grupoc19/public_html/login/sistema/inventario.php on line 109
+[30-May-2020 11:00:38 America/Bogota] PHP Warning:  file_get_contents(): Filename cannot be empty in /home3/grupoc19/public_html/login/sistema/add_product.php on line 10
+[01-Sep-2020 09:53:48 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined function base74_encode() in /home3/grupoc19/public_html/login/sistema/imprimir_factura.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/grupoc19/public_html/login/sistema/imprimir_factura.php on line 16
+[01-Sep-2020 09:53:54 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined function base74_encode() in /home3/grupoc19/public_html/login/sistema/imprimir_factura.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/grupoc19/public_html/login/sistema/imprimir_factura.php on line 16
+[01-Sep-2020 11:08:50 America/Bogota] PHP Warning:  file_get_contents(https://elestan.co/api/imprimir_factura.php?email=prueba%40gmail.com&amp;direccion=Cll+55+%23+54-67&amp;forma_pago=Efectivo&amp;telefono=3108854698&amp;total=27000&amp;productos=%5B%5B%22Cerveza+Tecate%22%2C3%2C3000%5D%2C%5B%22Cerveza+Andina%22%2C1%2C18000%5D%5D&amp;u32=parragaherrerah%40gmail.com&amp;cpno=1ec956a864b92a64ceeaf70b0e21b6acf698ed304a90a05bbfd98ff577bf9e25): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home3/grupoc19/public_html/login/sistema/imprimir_factura.php on line 15
+[01-Sep-2020 12:22:41 America/Bogota] PHP Warning:  file_get_contents(https://elestan.co/api/imprimir_factura.php?email=yorksgomez%40gmail.com&amp;direccion=v&amp;forma_pago=Efectivo&amp;telefono=123&amp;total=890000&amp;productos=%5B%5B%22Antioque%5Cu00f1o+Tradicional+Caja+%22%2C6%2C52500%5D%2C%5B%22Antioque%5Cu00f1o+Tradicional+Botella+%22%2C5%2C25000%5D%2C%5B%22Antioque%5Cu00f1o+Azul+Sin+Az%5Cu00facar+Botella+%22%2C1%2C45000%5D%2C%5B%22Antioque%5Cu00f1o+Azul+Sin+Az%5Cu00facar+Caja+%22%2C4%2C55000%5D%2C%5B%22Antioque%5Cu00f1o+Tradicional+Botella+%22%2C3%2C45000%5D%2C%5B%22Antioque%5Cu00f1o+Azul+Sin+Az%5Cu00facar+Botella+%22%2C2%2C25000%5D%5D&amp;u32=parragaherrerah%40gmail.com&amp;cpno=1ec956a864b92a64ceeaf70b0e21b6acf698ed304a90a05bbfd98ff577bf9e25): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home3/grupoc19/public_html/login/sistema/imprimir_factura.php on line 15
+[11-Oct-2021 09:50:16 America/Bogota] PHP Notice:  Undefined index: municipio in /home3/grupoc78/elestancodelanoche.grupocosechar.com/login/sistema/add_sucursal.php on line 11
+[14-Oct-2021 09:56:04 America/Bogota] PHP Notice:  Undefined index: municipio in /home3/grupoc78/elestancodelanoche.grupocosechar.com/login/sistema/add_sucursal.php on line 11

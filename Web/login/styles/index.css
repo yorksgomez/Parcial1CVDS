@@ -1,0 +1,58 @@
+* {
+  font-size: 12px;
+  box-sizing: border-box;
+}
+
+html,
+body,
+.wrap {
+  width: 100%;
+  height: 100%;
+}
+
+.wrap {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.wrap .formulary {
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+}
+
+.wrap .formulary .logo {
+  padding: 1rem;
+  display: flex;
+  justify-content: center;
+}
+
+.wrap .formulary .logo img {
+  width: 280px;
+  height: 140px;
+}
+
+.wrap .formulary form {
+  padding: 1rem;
+  display: flex;
+  flex-direction: column;
+}
+
+.wrap .formulary form input {
+  width: 100%;
+  padding: 0.7rem;
+  margin: 0.3rem 0;
+}
+
+.wrap .formulary form input[type="submit"] {
+  border: 0;
+  color: #FFF;
+  background-color: #154B10;
+  cursor: pointer;
+  align-self: center;
+}
+
+.wrap .formulary form input[type="submit"]:hover {
+  background-color: #10400c;
+}

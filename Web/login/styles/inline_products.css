@@ -1,0 +1,43 @@
+.product_line .product_list {
+  position:absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  background-color: #ff9800;
+  padding: 40px;
+  color: #FFF;
+  text-align: center;
+  display: flex;
+  flex-direction: row;
+  display: none;
+}
+
+.product_line .product_list .product {
+  background-color: rgba(0, 0, 0, .12);
+  padding: 5px;
+}
+
+.product_line .product_button {
+  padding: 5px;
+  font-size: 1.2em;
+  cursor:pointer;
+}
+
+.product_line .product_button:hover {
+  color: #ff9800;
+}
+
+.product_line .relative-div  {
+  position: relative;
+}
+
+.product_line .close_button {
+  float:right;
+  color: #FFF;
+  cursor:pointer;
+  padding: 5px;
+}
+
+.product_line .close_button:hover {
+  color: #fa4300;
+}

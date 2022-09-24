@@ -1,0 +1,6 @@
+[28-Mar-2020 00:03:00 America/Bogota] PHP Warning:  file_get_contents(https://...@gmail.com&amp;pin=5845336901&amp;contrasena=aldo3293): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home3/grupoc19/public_html/olvide-contrasena/index.php on line 74
+[28-Mar-2020 00:03:14 America/Bogota] PHP Warning:  file_get_contents(https://...@gmail.com&amp;pin=5845336901&amp;contrasena=aldo3293): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home3/grupoc19/public_html/olvide-contrasena/index.php on line 74
+[30-Aug-2020 15:47:55 America/Bogota] PHP Warning:  file_get_contents(https://...@gmail.com&amp;pin=8682663623&amp;contrasena=abc123): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home3/grupoc19/public_html/olvide-contrasena/index.php on line 74

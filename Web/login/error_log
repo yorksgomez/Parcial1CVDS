@@ -1,0 +1,122 @@
+[01-Feb-2020 14:28:11 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home3/grupoc19/public_html/login/login.php on line 32
+[01-Feb-2020 14:28:52 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home3/grupoc19/public_html/login/login.php on line 32
+[01-Feb-2020 14:29:27 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home3/grupoc19/public_html/login/login.php on line 32
+[01-Feb-2020 14:29:36 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home3/grupoc19/public_html/login/login.php on line 32
+[01-Feb-2020 14:29:41 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home3/grupoc19/public_html/login/login.php on line 32
+[01-Feb-2020 14:30:29 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home3/grupoc19/public_html/login/login.php on line 32
+[01-Feb-2020 14:30:34 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home3/grupoc19/public_html/login/login.php on line 32
+[01-Feb-2020 14:30:44 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home3/grupoc19/public_html/login/login.php on line 32
+[03-Feb-2020 17:07:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home3/grupoc19/public_html/login/login.php:26
+Stack trace:
+#0 {main}
+  thrown in /home3/grupoc19/public_html/login/login.php on line 26
+[03-Feb-2020 17:08:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home3/grupoc19/public_html/login/login.php:26
+Stack trace:
+#0 {main}
+  thrown in /home3/grupoc19/public_html/login/login.php on line 26
+[03-Feb-2020 17:09:03 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home3/grupoc19/public_html/login/login.php:26
+Stack trace:
+#0 {main}
+  thrown in /home3/grupoc19/public_html/login/login.php on line 26
+[05-Feb-2020 18:46:15 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home3/grupoc19/public_html/login/login.php on line 24
+[05-Feb-2020 18:46:16 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/grupoc19/public_html/login/login.php:24) in /home3/grupoc19/public_html/login/login.php on line 33
+[06-Feb-2020 14:46:32 UTC] PHP Notice:  Undefined index: user in /home3/grupoc19/public_html/login/app_constants.php on line 16
+[06-Feb-2020 14:46:32 UTC] PHP Notice:  Undefined index: password in /home3/grupoc19/public_html/login/app_constants.php on line 16
+[06-Feb-2020 14:46:32 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home3/grupoc19/public_html/login/login.php on line 12
+[06-Feb-2020 14:46:32 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/grupoc19/public_html/login/app_constants.php:16) in /home3/grupoc19/public_html/login/login.php on line 16
+[06-Feb-2020 15:55:26 UTC] PHP Notice:  Undefined index: user in /home3/grupoc19/public_html/login/app_constants.php on line 16
+[06-Feb-2020 15:55:26 UTC] PHP Notice:  Undefined index: password in /home3/grupoc19/public_html/login/app_constants.php on line 16
+[06-Feb-2020 15:55:27 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home3/grupoc19/public_html/login/login.php on line 12
+[06-Feb-2020 15:55:27 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/grupoc19/public_html/login/app_constants.php:16) in /home3/grupoc19/public_html/login/login.php on line 16
+[06-Feb-2020 16:11:30 UTC] PHP Notice:  Undefined index: user in /home3/grupoc19/public_html/login/app_constants.php on line 16
+[06-Feb-2020 16:11:30 UTC] PHP Notice:  Undefined index: password in /home3/grupoc19/public_html/login/app_constants.php on line 16
+[06-Feb-2020 16:11:30 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home3/grupoc19/public_html/login/login.php on line 12
+[06-Feb-2020 16:11:30 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/grupoc19/public_html/login/app_constants.php:16) in /home3/grupoc19/public_html/login/login.php on line 16
+[06-Feb-2020 16:17:02 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home3/grupoc19/public_html/login/login.php on line 12
+[06-Feb-2020 16:17:02 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/grupoc19/public_html/login/login.php:12) in /home3/grupoc19/public_html/login/login.php on line 16
+[06-Feb-2020 16:38:29 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home3/grupoc19/public_html/login/login.php on line 12
+[06-Feb-2020 16:38:29 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/grupoc19/public_html/login/login.php:12) in /home3/grupoc19/public_html/login/login.php on line 16
+[06-Feb-2020 16:45:13 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home3/grupoc19/public_html/login/login.php on line 12
+[06-Feb-2020 16:45:13 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/grupoc19/public_html/login/login.php:12) in /home3/grupoc19/public_html/login/login.php on line 16
+[06-Feb-2020 17:01:24 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home3/grupoc19/public_html/login/login.php on line 12
+[06-Feb-2020 17:01:24 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/grupoc19/public_html/login/login.php:12) in /home3/grupoc19/public_html/login/login.php on line 16
+[06-Feb-2020 17:07:08 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home3/grupoc19/public_html/login/login.php on line 12
+[06-Feb-2020 17:07:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/grupoc19/public_html/login/login.php:12) in /home3/grupoc19/public_html/login/login.php on line 16
+[06-Feb-2020 17:18:59 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home3/grupoc19/public_html/login/login.php on line 12
+[06-Feb-2020 17:18:59 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/grupoc19/public_html/login/login.php:12) in /home3/grupoc19/public_html/login/login.php on line 16
+[06-Feb-2020 17:27:00 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home3/grupoc19/public_html/login/login.php on line 12
+[06-Feb-2020 17:27:00 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/grupoc19/public_html/login/login.php:12) in /home3/grupoc19/public_html/login/login.php on line 16
+[06-Feb-2020 17:47:30 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home3/grupoc19/public_html/login/login.php on line 12
+[06-Feb-2020 17:47:30 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/grupoc19/public_html/login/login.php:12) in /home3/grupoc19/public_html/login/login.php on line 16
+[06-Feb-2020 18:41:57 UTC] PHP Notice:  Undefined index: user in /home3/grupoc19/public_html/login/app_constants.php on line 16
+[06-Feb-2020 18:41:57 UTC] PHP Notice:  Undefined index: password in /home3/grupoc19/public_html/login/app_constants.php on line 16
+[06-Feb-2020 18:41:58 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home3/grupoc19/public_html/login/login.php on line 12
+[06-Feb-2020 18:41:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/grupoc19/public_html/login/app_constants.php:16) in /home3/grupoc19/public_html/login/login.php on line 16
+[06-Feb-2020 20:45:44 UTC] PHP Notice:  Undefined index: user in /home3/grupoc19/public_html/login/app_constants.php on line 16
+[06-Feb-2020 20:45:44 UTC] PHP Notice:  Undefined index: password in /home3/grupoc19/public_html/login/app_constants.php on line 16
+[06-Feb-2020 20:45:44 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home3/grupoc19/public_html/login/login.php on line 12
+[06-Feb-2020 20:45:44 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/grupoc19/public_html/login/app_constants.php:16) in /home3/grupoc19/public_html/login/login.php on line 16
+[07-Feb-2020 14:45:47 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home3/grupoc19/public_html/login/login.php on line 12
+[07-Feb-2020 14:45:47 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/grupoc19/public_html/login/login.php:12) in /home3/grupoc19/public_html/login/login.php on line 16
+[11-Feb-2020 14:10:43 UTC] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home3/grupoc19/public_html/login/login.php on line 9
+[11-Feb-2020 14:10:43 UTC] PHP Warning:  file_get_contents(https://elestan.co/api/login.php?usuario=yorksgomez%40hotmail.com&amp;contrasena=6ca13d52ca70c883e0f0bb101e425a89e8624de51db2d2392593af6a84118090&amp;tipo=admin): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home3/grupoc19/public_html/login/login.php on line 9
+[11-Feb-2020 14:10:49 UTC] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home3/grupoc19/public_html/login/login.php on line 21
+[11-Feb-2020 14:10:49 UTC] PHP Warning:  file_get_contents(https://elestan.co/api/login.php?usuario=yorksgomez%40hotmail.com&amp;contrasena=6ca13d52ca70c883e0f0bb101e425a89e8624de51db2d2392593af6a84118090&amp;tipo=sucursal): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home3/grupoc19/public_html/login/login.php on line 21
+[26-Feb-2020 08:59:18 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/grupoc19/public_html/login/app_constants.php:5) in /home3/grupoc19/public_html/login/login.php on line 16
+[26-Feb-2020 09:18:13 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/grupoc19/public_html/login/app_constants.php:10) in /home3/grupoc19/public_html/login/login.php on line 16
+[09-Oct-2021 13:54:39 America/Bogota] PHP Warning:  file_get_contents(): Peer certificate CN=`*.hostgator.co' did not match expected CN=`elestan.co' in /home3/grupoc78/elestancosis.grupocosechar.com/login/login.php on line 9
+[09-Oct-2021 13:54:39 America/Bogota] PHP Warning:  file_get_contents(): Failed to enable crypto in /home3/grupoc78/elestancosis.grupocosechar.com/login/login.php on line 9
+[09-Oct-2021 13:54:39 America/Bogota] PHP Warning:  file_get_contents(https://elestan.co/api/login.php?usuario=asd&amp;contrasena=688787d8ff144c502c7f5cffaafe2cc588d86079f9de88304c26b0cb99ce91c6&amp;tipo=admin): failed to open stream: operation failed in /home3/grupoc78/elestancosis.grupocosechar.com/login/login.php on line 9
+[09-Oct-2021 13:54:39 America/Bogota] PHP Warning:  file_get_contents(): Peer certificate CN=`*.hostgator.co' did not match expected CN=`elestan.co' in /home3/grupoc78/elestancosis.grupocosechar.com/login/login.php on line 22
+[09-Oct-2021 13:54:39 America/Bogota] PHP Warning:  file_get_contents(): Failed to enable crypto in /home3/grupoc78/elestancosis.grupocosechar.com/login/login.php on line 22
+[09-Oct-2021 13:54:39 America/Bogota] PHP Warning:  file_get_contents(https://elestan.co/api/login.php?usuario=asd&amp;contrasena=688787d8ff144c502c7f5cffaafe2cc588d86079f9de88304c26b0cb99ce91c6&amp;tipo=sucursal): failed to open stream: operation failed in /home3/grupoc78/elestancosis.grupocosechar.com/login/login.php on line 22
+[09-Oct-2021 14:28:05 America/Bogota] PHP Warning:  file_get_contents(): Peer certificate CN=`*.hostgator.co' did not match expected CN=`elestan.co' in /home3/grupoc78/elestancosis.grupocosechar.com/login/login.php on line 9
+[09-Oct-2021 14:28:05 America/Bogota] PHP Warning:  file_get_contents(): Failed to enable crypto in /home3/grupoc78/elestancosis.grupocosechar.com/login/login.php on line 9
+[09-Oct-2021 14:28:05 America/Bogota] PHP Warning:  file_get_contents(https://elestan.co/api/login.php?usuario=&amp;contrasena=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855&amp;tipo=admin): failed to open stream: operation failed in /home3/grupoc78/elestancosis.grupocosechar.com/login/login.php on line 9
+[09-Oct-2021 14:28:05 America/Bogota] PHP Warning:  file_get_contents(): Peer certificate CN=`*.hostgator.co' did not match expected CN=`elestan.co' in /home3/grupoc78/elestancosis.grupocosechar.com/login/login.php on line 22
+[09-Oct-2021 14:28:05 America/Bogota] PHP Warning:  file_get_contents(): Failed to enable crypto in /home3/grupoc78/elestancosis.grupocosechar.com/login/login.php on line 22
+[09-Oct-2021 14:28:05 America/Bogota] PHP Warning:  file_get_contents(https://elestan.co/api/login.php?usuario=&amp;contrasena=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855&amp;tipo=sucursal): failed to open stream: operation failed in /home3/grupoc78/elestancosis.grupocosechar.com/login/login.php on line 22
+[09-Oct-2021 14:28:06 America/Bogota] PHP Warning:  file_get_contents(): Peer certificate CN=`*.hostgator.co' did not match expected CN=`elestan.co' in /home3/grupoc78/elestancosis.grupocosechar.com/login/login.php on line 9
+[09-Oct-2021 14:28:06 America/Bogota] PHP Warning:  file_get_contents(): Failed to enable crypto in /home3/grupoc78/elestancosis.grupocosechar.com/login/login.php on line 9
+[09-Oct-2021 14:28:06 America/Bogota] PHP Warning:  file_get_contents(https://elestan.co/api/login.php?usuario=&amp;contrasena=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855&amp;tipo=admin): failed to open stream: operation failed in /home3/grupoc78/elestancosis.grupocosechar.com/login/login.php on line 9
+[09-Oct-2021 14:28:06 America/Bogota] PHP Warning:  file_get_contents(): Peer certificate CN=`*.hostgator.co' did not match expected CN=`elestan.co' in /home3/grupoc78/elestancosis.grupocosechar.com/login/login.php on line 22
+[09-Oct-2021 14:28:06 America/Bogota] PHP Warning:  file_get_contents(): Failed to enable crypto in /home3/grupoc78/elestancosis.grupocosechar.com/login/login.php on line 22
+[09-Oct-2021 14:28:06 America/Bogota] PHP Warning:  file_get_contents(https://elestan.co/api/login.php?usuario=&amp;contrasena=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855&amp;tipo=sucursal): failed to open stream: operation failed in /home3/grupoc78/elestancosis.grupocosechar.com/login/login.php on line 22
+[09-Oct-2021 14:28:11 America/Bogota] PHP Warning:  file_get_contents(): Peer certificate CN=`*.hostgator.co' did not match expected CN=`elestan.co' in /home3/grupoc78/elestancosis.grupocosechar.com/login/login.php on line 9
+[09-Oct-2021 14:28:11 America/Bogota] PHP Warning:  file_get_contents(): Failed to enable crypto in /home3/grupoc78/elestancosis.grupocosechar.com/login/login.php on line 9
+[09-Oct-2021 14:28:11 America/Bogota] PHP Warning:  file_get_contents(https://elestan.co/api/login.php?usuario=aslkjdnak&amp;contrasena=d5050aa4769dd5c9dfc00b7441fb69e3f86936425e98e99fd52258528353d18d&amp;tipo=admin): failed to open stream: operation failed in /home3/grupoc78/elestancosis.grupocosechar.com/login/login.php on line 9
+[09-Oct-2021 14:28:11 America/Bogota] PHP Warning:  file_get_contents(): Peer certificate CN=`*.hostgator.co' did not match expected CN=`elestan.co' in /home3/grupoc78/elestancosis.grupocosechar.com/login/login.php on line 22
+[09-Oct-2021 14:28:11 America/Bogota] PHP Warning:  file_get_contents(): Failed to enable crypto in /home3/grupoc78/elestancosis.grupocosechar.com/login/login.php on line 22
+[09-Oct-2021 14:28:11 America/Bogota] PHP Warning:  file_get_contents(https://elestan.co/api/login.php?usuario=aslkjdnak&amp;contrasena=d5050aa4769dd5c9dfc00b7441fb69e3f86936425e98e99fd52258528353d18d&amp;tipo=sucursal): failed to open stream: operation failed in /home3/grupoc78/elestancosis.grupocosechar.com/login/login.php on line 22
+[09-Oct-2021 14:28:46 America/Bogota] PHP Warning:  file_get_contents(): Peer certificate CN=`*.hostgator.co' did not match expected CN=`elestan.co' in /home3/grupoc78/elestancosis.grupocosechar.com/login/login.php on line 9
+[09-Oct-2021 14:28:46 America/Bogota] PHP Warning:  file_get_contents(): Failed to enable crypto in /home3/grupoc78/elestancosis.grupocosechar.com/login/login.php on line 9
+[09-Oct-2021 14:28:46 America/Bogota] PHP Warning:  file_get_contents(https://elestan.co/api/login.php?usuario=elgoogclass6%40gmail.com&amp;contrasena=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4&amp;tipo=admin): failed to open stream: operation failed in /home3/grupoc78/elestancosis.grupocosechar.com/login/login.php on line 9
+[09-Oct-2021 14:28:46 America/Bogota] PHP Warning:  file_get_contents(): Peer certificate CN=`*.hostgator.co' did not match expected CN=`elestan.co' in /home3/grupoc78/elestancosis.grupocosechar.com/login/login.php on line 22
+[09-Oct-2021 14:28:46 America/Bogota] PHP Warning:  file_get_contents(): Failed to enable crypto in /home3/grupoc78/elestancosis.grupocosechar.com/login/login.php on line 22
+[09-Oct-2021 14:28:46 America/Bogota] PHP Warning:  file_get_contents(https://elestan.co/api/login.php?usuario=elgoogclass6%40gmail.com&amp;contrasena=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4&amp;tipo=sucursal): failed to open stream: operation failed in /home3/grupoc78/elestancosis.grupocosechar.com/login/login.php on line 22
+[09-Oct-2021 14:32:14 America/Bogota] PHP Warning:  file_get_contents(): Peer certificate CN=`*.hostgator.co' did not match expected CN=`elestan.co' in /home3/grupoc78/elestancosis.grupocosechar.com/login/login.php on line 9
+[09-Oct-2021 14:32:14 America/Bogota] PHP Warning:  file_get_contents(): Failed to enable crypto in /home3/grupoc78/elestancosis.grupocosechar.com/login/login.php on line 9
+[09-Oct-2021 14:32:14 America/Bogota] PHP Warning:  file_get_contents(https://elestan.co/api/login.php?usuario=&amp;contrasena=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855&amp;tipo=admin): failed to open stream: operation failed in /home3/grupoc78/elestancosis.grupocosechar.com/login/login.php on line 9
+[09-Oct-2021 14:32:14 America/Bogota] PHP Warning:  file_get_contents(): Peer certificate CN=`*.hostgator.co' did not match expected CN=`elestan.co' in /home3/grupoc78/elestancosis.grupocosechar.com/login/login.php on line 22
+[09-Oct-2021 14:32:14 America/Bogota] PHP Warning:  file_get_contents(): Failed to enable crypto in /home3/grupoc78/elestancosis.grupocosechar.com/login/login.php on line 22
+[09-Oct-2021 14:32:14 America/Bogota] PHP Warning:  file_get_contents(https://elestan.co/api/login.php?usuario=&amp;contrasena=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855&amp;tipo=sucursal): failed to open stream: operation failed in /home3/grupoc78/elestancosis.grupocosechar.com/login/login.php on line 22
+[09-Oct-2021 14:32:17 America/Bogota] PHP Warning:  file_get_contents(): Peer certificate CN=`*.hostgator.co' did not match expected CN=`elestan.co' in /home3/grupoc78/elestancosis.grupocosechar.com/login/login.php on line 9
+[09-Oct-2021 14:32:17 America/Bogota] PHP Warning:  file_get_contents(): Failed to enable crypto in /home3/grupoc78/elestancosis.grupocosechar.com/login/login.php on line 9
+[09-Oct-2021 14:32:17 America/Bogota] PHP Warning:  file_get_contents(https://elestan.co/api/login.php?usuario=dasd&amp;contrasena=8a86c4eecf12446ff273afc03e1b3a09a911d0b7981db1af58cb45c439161295&amp;tipo=admin): failed to open stream: operation failed in /home3/grupoc78/elestancosis.grupocosechar.com/login/login.php on line 9
+[09-Oct-2021 14:32:17 America/Bogota] PHP Warning:  file_get_contents(): Peer certificate CN=`*.hostgator.co' did not match expected CN=`elestan.co' in /home3/grupoc78/elestancosis.grupocosechar.com/login/login.php on line 22
+[09-Oct-2021 14:32:17 America/Bogota] PHP Warning:  file_get_contents(): Failed to enable crypto in /home3/grupoc78/elestancosis.grupocosechar.com/login/login.php on line 22
+[09-Oct-2021 14:32:17 America/Bogota] PHP Warning:  file_get_contents(https://elestan.co/api/login.php?usuario=dasd&amp;contrasena=8a86c4eecf12446ff273afc03e1b3a09a911d0b7981db1af58cb45c439161295&amp;tipo=sucursal): failed to open stream: operation failed in /home3/grupoc78/elestancosis.grupocosechar.com/login/login.php on line 22
+[09-Oct-2021 14:34:25 America/Bogota] PHP Warning:  file_get_contents(https://elestancosis.grupocosechar.com/api/login.php?usuario=asd&amp;contrasena=688787d8ff144c502c7f5cffaafe2cc588d86079f9de88304c26b0cb99ce91c6&amp;tipo=admin): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home3/grupoc78/elestancosis.grupocosechar.com/login/login.php on line 9
+[09-Oct-2021 14:34:26 America/Bogota] PHP Warning:  file_get_contents(https://elestancosis.grupocosechar.com/api/login.php?usuario=asd&amp;contrasena=688787d8ff144c502c7f5cffaafe2cc588d86079f9de88304c26b0cb99ce91c6&amp;tipo=sucursal): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home3/grupoc78/elestancosis.grupocosechar.com/login/login.php on line 22
+[09-Oct-2021 14:39:35 America/Bogota] PHP Warning:  file_get_contents(https://elestancosis.grupocosechar.com/api/login.php?usuario=asda&amp;contrasena=688787d8ff144c502c7f5cffaafe2cc588d86079f9de88304c26b0cb99ce91c6&amp;tipo=admin): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home3/grupoc78/elestancosis.grupocosechar.com/login/login.php on line 9
+[09-Oct-2021 14:39:36 America/Bogota] PHP Warning:  file_get_contents(https://elestancosis.grupocosechar.com/api/login.php?usuario=asda&amp;contrasena=688787d8ff144c502c7f5cffaafe2cc588d86079f9de88304c26b0cb99ce91c6&amp;tipo=sucursal): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home3/grupoc78/elestancosis.grupocosechar.com/login/login.php on line 22
+[09-Oct-2021 14:54:13 America/Bogota] PHP Warning:  file_get_contents(https://elestancosis.grupocosechar.com/api/login.php?usuario=asda&amp;contrasena=c42edefc75871e4ce2146fcda67d03dda05cc26fdf93b17b55f42c1eadfdc322&amp;tipo=admin): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home3/grupoc78/elestancosis.grupocosechar.com/login/login.php on line 9
+[09-Oct-2021 14:54:13 America/Bogota] PHP Warning:  file_get_contents(https://elestancosis.grupocosechar.com/api/login.php?usuario=asda&amp;contrasena=c42edefc75871e4ce2146fcda67d03dda05cc26fdf93b17b55f42c1eadfdc322&amp;tipo=sucursal): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home3/grupoc78/elestancosis.grupocosechar.com/login/login.php on line 22
+[09-Oct-2021 18:27:11 America/Bogota] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ';' in /home3/grupoc78/elestancodelanoche.grupocosechar.com/login/login.php on line 8
+[09-Oct-2021 18:27:14 America/Bogota] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ';' in /home3/grupoc78/elestancodelanoche.grupocosechar.com/login/login.php on line 8

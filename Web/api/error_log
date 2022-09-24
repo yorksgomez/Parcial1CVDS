@@ -1,0 +1,633 @@
+[31-Jan-2020 12:51:11 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'id12207004_elestanco'@'localhost' (using password: YES) in /home3/grupoc19/public_html/api/connect_db.php on line 25
+[31-Jan-2020 12:51:11 UTC] PHP Warning:  Connection::get(): Couldn't fetch mysqli in /home3/grupoc19/public_html/api/connect_db.php on line 27
+[31-Jan-2020 12:51:11 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home3/grupoc19/public_html/api/get_small_cities.php on line 16
+[31-Jan-2020 12:51:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_all() on bool in /home3/grupoc19/public_html/api/get_small_cities.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/grupoc19/public_html/api/get_small_cities.php on line 16
+[31-Jan-2020 12:51:37 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'id12207004_elestanco'@'localhost' (using password: YES) in /home3/grupoc19/public_html/api/connect_db.php on line 25
+[31-Jan-2020 12:51:37 UTC] PHP Warning:  Connection::get(): Couldn't fetch mysqli in /home3/grupoc19/public_html/api/connect_db.php on line 27
+[31-Jan-2020 12:51:37 UTC] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /home3/grupoc19/public_html/api/get_pedidos.php on line 25
+[31-Jan-2020 12:51:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home3/grupoc19/public_html/api/get_pedidos.php:26
+Stack trace:
+#0 {main}
+  thrown in /home3/grupoc19/public_html/api/get_pedidos.php on line 26
+[31-Jan-2020 12:51:48 UTC] PHP Notice:  Undefined index: id_usuario in /home3/grupoc19/public_html/api/add_pedidos.php on line 8
+[31-Jan-2020 12:51:48 UTC] PHP Notice:  Undefined index: direccion in /home3/grupoc19/public_html/api/add_pedidos.php on line 9
+[31-Jan-2020 12:51:48 UTC] PHP Notice:  Undefined index: forma_pago in /home3/grupoc19/public_html/api/add_pedidos.php on line 10
+[31-Jan-2020 12:51:48 UTC] PHP Notice:  Undefined index: productos in /home3/grupoc19/public_html/api/add_pedidos.php on line 11
+[31-Jan-2020 12:51:48 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'id12207004_elestanco'@'localhost' (using password: YES) in /home3/grupoc19/public_html/api/connect_db.php on line 25
+[31-Jan-2020 12:51:48 UTC] PHP Warning:  Connection::get(): Couldn't fetch mysqli in /home3/grupoc19/public_html/api/connect_db.php on line 27
+[31-Jan-2020 12:51:48 UTC] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /home3/grupoc19/public_html/api/add_pedidos.php on line 17
+[31-Jan-2020 12:51:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home3/grupoc19/public_html/api/add_pedidos.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/grupoc19/public_html/api/add_pedidos.php on line 18
+[31-Jan-2020 13:01:04 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'id12207004_elestanco'@'localhost' (using password: YES) in /home3/grupoc19/public_html/api/connect_db.php on line 25
+[31-Jan-2020 13:01:04 UTC] PHP Warning:  Connection::get(): Couldn't fetch mysqli in /home3/grupoc19/public_html/api/connect_db.php on line 27
+[31-Jan-2020 13:01:04 UTC] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /home3/grupoc19/public_html/api/get_products.php on line 20
+[31-Jan-2020 13:01:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home3/grupoc19/public_html/api/get_products.php:22
+Stack trace:
+#0 {main}
+  thrown in /home3/grupoc19/public_html/api/get_products.php on line 22
+[31-Jan-2020 13:08:07 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'id12207004_elestanco'@'localhost' (using password: YES) in /home3/grupoc19/public_html/api/connect_db.php on line 25
+[31-Jan-2020 13:08:07 UTC] PHP Warning:  Connection::get(): Couldn't fetch mysqli in /home3/grupoc19/public_html/api/connect_db.php on line 27
+[31-Jan-2020 13:08:07 UTC] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /home3/grupoc19/public_html/api/get_products.php on line 20
+[31-Jan-2020 13:08:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home3/grupoc19/public_html/api/get_products.php:22
+Stack trace:
+#0 {main}
+  thrown in /home3/grupoc19/public_html/api/get_products.php on line 22
+[31-Jan-2020 13:08:09 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'id12207004_elestanco'@'localhost' (using password: YES) in /home3/grupoc19/public_html/api/connect_db.php on line 25
+[31-Jan-2020 13:08:09 UTC] PHP Warning:  Connection::get(): Couldn't fetch mysqli in /home3/grupoc19/public_html/api/connect_db.php on line 27
+[31-Jan-2020 13:08:09 UTC] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /home3/grupoc19/public_html/api/get_products.php on line 20
+[31-Jan-2020 13:08:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home3/grupoc19/public_html/api/get_products.php:22
+Stack trace:
+#0 {main}
+  thrown in /home3/grupoc19/public_html/api/get_products.php on line 22
+[31-Jan-2020 13:08:38 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'grupoc19_estanco'@'162.241.60.182' (using password: YES) in /home3/grupoc19/public_html/api/connect_db.php on line 23
+[31-Jan-2020 13:08:38 UTC] PHP Warning:  Connection::get(): Couldn't fetch mysqli in /home3/grupoc19/public_html/api/connect_db.php on line 25
+[31-Jan-2020 13:08:38 UTC] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /home3/grupoc19/public_html/api/get_products.php on line 20
+[31-Jan-2020 13:08:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home3/grupoc19/public_html/api/get_products.php:22
+Stack trace:
+#0 {main}
+  thrown in /home3/grupoc19/public_html/api/get_products.php on line 22
+[31-Jan-2020 13:08:58 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'grupoc19_estanco'@'162.241.60.182' (using password: YES) in /home3/grupoc19/public_html/api/connect_db.php on line 23
+[31-Jan-2020 13:08:58 UTC] PHP Warning:  Connection::get(): Couldn't fetch mysqli in /home3/grupoc19/public_html/api/connect_db.php on line 25
+[31-Jan-2020 13:08:58 UTC] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /home3/grupoc19/public_html/api/get_products.php on line 20
+[31-Jan-2020 13:08:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home3/grupoc19/public_html/api/get_products.php:22
+Stack trace:
+#0 {main}
+  thrown in /home3/grupoc19/public_html/api/get_products.php on line 22
+[31-Jan-2020 13:09:37 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'grupoc19_estanco'@'162.241.60.182' (using password: YES) in /home3/grupoc19/public_html/api/connect_db.php on line 23
+[31-Jan-2020 13:09:37 UTC] PHP Warning:  Connection::get(): Couldn't fetch mysqli in /home3/grupoc19/public_html/api/connect_db.php on line 25
+[31-Jan-2020 13:09:37 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home3/grupoc19/public_html/api/get_big_cities.php on line 12
+[31-Jan-2020 13:09:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_all() on bool in /home3/grupoc19/public_html/api/get_big_cities.php:12
+Stack trace:
+#0 {main}
+  thrown in /home3/grupoc19/public_html/api/get_big_cities.php on line 12
+[31-Jan-2020 13:10:39 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'grupoc19_estanco'@'162.241.60.182' (using password: YES) in /home3/grupoc19/public_html/api/connect_db.php on line 26
+[31-Jan-2020 13:10:39 UTC] PHP Warning:  Connection::get(): Couldn't fetch mysqli in /home3/grupoc19/public_html/api/connect_db.php on line 28
+[31-Jan-2020 13:10:39 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home3/grupoc19/public_html/api/get_big_cities.php on line 12
+[31-Jan-2020 13:10:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_all() on bool in /home3/grupoc19/public_html/api/get_big_cities.php:12
+Stack trace:
+#0 {main}
+  thrown in /home3/grupoc19/public_html/api/get_big_cities.php on line 12
+[31-Jan-2020 13:11:43 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'grupoc19_estanco'@'162.241.60.182' (using password: YES) in /home3/grupoc19/public_html/api/connect_db.php on line 26
+[31-Jan-2020 13:11:43 UTC] PHP Warning:  Connection::get(): Couldn't fetch mysqli in /home3/grupoc19/public_html/api/connect_db.php on line 28
+[31-Jan-2020 13:11:43 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home3/grupoc19/public_html/api/get_big_cities.php on line 12
+[31-Jan-2020 13:11:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_all() on bool in /home3/grupoc19/public_html/api/get_big_cities.php:12
+Stack trace:
+#0 {main}
+  thrown in /home3/grupoc19/public_html/api/get_big_cities.php on line 12
+[31-Jan-2020 13:12:49 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'grupoc19_estanco'@'162.241.60.182' (using password: YES) in /home3/grupoc19/public_html/api/connect_db.php on line 26
+[31-Jan-2020 13:12:49 UTC] PHP Warning:  Connection::get(): Couldn't fetch mysqli in /home3/grupoc19/public_html/api/connect_db.php on line 28
+[31-Jan-2020 13:12:49 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home3/grupoc19/public_html/api/get_big_cities.php on line 12
+[31-Jan-2020 13:12:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_all() on bool in /home3/grupoc19/public_html/api/get_big_cities.php:12
+Stack trace:
+#0 {main}
+  thrown in /home3/grupoc19/public_html/api/get_big_cities.php on line 12
+[31-Jan-2020 13:12:51 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'grupoc19_estanco'@'162.241.60.182' (using password: YES) in /home3/grupoc19/public_html/api/connect_db.php on line 26
+[31-Jan-2020 13:12:51 UTC] PHP Warning:  Connection::get(): Couldn't fetch mysqli in /home3/grupoc19/public_html/api/connect_db.php on line 28
+[31-Jan-2020 13:12:51 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home3/grupoc19/public_html/api/get_big_cities.php on line 12
+[31-Jan-2020 13:12:51 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_all() on bool in /home3/grupoc19/public_html/api/get_big_cities.php:12
+Stack trace:
+#0 {main}
+  thrown in /home3/grupoc19/public_html/api/get_big_cities.php on line 12
+[31-Jan-2020 13:20:26 UTC] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home3/grupoc19/public_html/api/add_pedidos.php on line 11
+[31-Jan-2020 13:20:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home3/grupoc19/public_html/api/add_pedidos.php on line 31
+[31-Jan-2020 13:20:26 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home3/grupoc19/public_html/api/add_pedidos.php:44
+Stack trace:
+#0 {main}
+  thrown in /home3/grupoc19/public_html/api/add_pedidos.php on line 44
+[01-Feb-2020 13:42:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_all() on bool in /home3/grupoc19/public_html/api/get_sucursales.php:14
+Stack trace:
+#0 {main}
+  thrown in /home3/grupoc19/public_html/api/get_sucursales.php on line 14
+[01-Feb-2020 13:44:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_all() on bool in /home3/grupoc19/public_html/api/get_sucursales.php:14
+Stack trace:
+#0 {main}
+  thrown in /home3/grupoc19/public_html/api/get_sucursales.php on line 14
+[01-Feb-2020 13:44:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_all() on bool in /home3/grupoc19/public_html/api/get_sucursales.php:14
+Stack trace:
+#0 {main}
+  thrown in /home3/grupoc19/public_html/api/get_sucursales.php on line 14
+[01-Feb-2020 13:44:42 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_all() on bool in /home3/grupoc19/public_html/api/get_sucursales.php:14
+Stack trace:
+#0 {main}
+  thrown in /home3/grupoc19/public_html/api/get_sucursales.php on line 14
+[01-Feb-2020 13:45:40 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_all() on bool in /home3/grupoc19/public_html/api/get_sucursales.php:14
+Stack trace:
+#0 {main}
+  thrown in /home3/grupoc19/public_html/api/get_sucursales.php on line 14
+[01-Feb-2020 13:46:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_all() on bool in /home3/grupoc19/public_html/api/get_sucursales.php:14
+Stack trace:
+#0 {main}
+  thrown in /home3/grupoc19/public_html/api/get_sucursales.php on line 14
+[01-Feb-2020 13:46:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_all() on bool in /home3/grupoc19/public_html/api/get_sucursales.php:14
+Stack trace:
+#0 {main}
+  thrown in /home3/grupoc19/public_html/api/get_sucursales.php on line 14
+[01-Feb-2020 13:46:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_all() on bool in /home3/grupoc19/public_html/api/get_sucursales.php:14
+Stack trace:
+#0 {main}
+  thrown in /home3/grupoc19/public_html/api/get_sucursales.php on line 14
+[01-Feb-2020 13:46:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_all() on bool in /home3/grupoc19/public_html/api/get_sucursales.php:14
+Stack trace:
+#0 {main}
+  thrown in /home3/grupoc19/public_html/api/get_sucursales.php on line 14
+[01-Feb-2020 13:48:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_all() on bool in /home3/grupoc19/public_html/api/get_sucursales.php:14
+Stack trace:
+#0 {main}
+  thrown in /home3/grupoc19/public_html/api/get_sucursales.php on line 14
+[01-Feb-2020 13:49:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_all() on bool in /home3/grupoc19/public_html/api/get_sucursales.php:14
+Stack trace:
+#0 {main}
+  thrown in /home3/grupoc19/public_html/api/get_sucursales.php on line 14
+[01-Feb-2020 13:50:22 UTC] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home3/grupoc19/public_html/api/get_sucursales.php on line 14
+[01-Feb-2020 14:03:44 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home3/grupoc19/public_html/api/get_pedidos.php:27
+Stack trace:
+#0 {main}
+  thrown in /home3/grupoc19/public_html/api/get_pedidos.php on line 27
+[01-Feb-2020 14:04:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home3/grupoc19/public_html/api/get_pedidos.php:27
+Stack trace:
+#0 {main}
+  thrown in /home3/grupoc19/public_html/api/get_pedidos.php on line 27
+[01-Feb-2020 14:04:57 UTC] PHP Notice:  Trying to get property 'error' of non-object in /home3/grupoc19/public_html/api/get_pedidos.php on line 27
+[01-Feb-2020 14:04:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home3/grupoc19/public_html/api/get_pedidos.php:29
+Stack trace:
+#0 {main}
+  thrown in /home3/grupoc19/public_html/api/get_pedidos.php on line 29
+[01-Feb-2020 14:05:50 UTC] PHP Notice:  Trying to get property 'error' of non-object in /home3/grupoc19/public_html/api/get_pedidos.php on line 27
+[01-Feb-2020 14:05:50 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home3/grupoc19/public_html/api/get_pedidos.php:29
+Stack trace:
+#0 {main}
+  thrown in /home3/grupoc19/public_html/api/get_pedidos.php on line 29
+[01-Feb-2020 14:05:51 UTC] PHP Notice:  Trying to get property 'error' of non-object in /home3/grupoc19/public_html/api/get_pedidos.php on line 27
+[01-Feb-2020 14:05:51 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home3/grupoc19/public_html/api/get_pedidos.php:29
+Stack trace:
+#0 {main}
+  thrown in /home3/grupoc19/public_html/api/get_pedidos.php on line 29
+[01-Feb-2020 14:05:51 UTC] PHP Notice:  Trying to get property 'error' of non-object in /home3/grupoc19/public_html/api/get_pedidos.php on line 27
+[01-Feb-2020 14:05:51 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home3/grupoc19/public_html/api/get_pedidos.php:29
+Stack trace:
+#0 {main}
+  thrown in /home3/grupoc19/public_html/api/get_pedidos.php on line 29
+[03-Feb-2020 01:27:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_all() on bool in /home3/grupoc19/public_html/api/get_sucursales.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/grupoc19/public_html/api/get_sucursales.php on line 16
+[03-Feb-2020 01:28:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_all() on bool in /home3/grupoc19/public_html/api/get_sucursales.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/grupoc19/public_html/api/get_sucursales.php on line 16
+[03-Feb-2020 01:28:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_all() on bool in /home3/grupoc19/public_html/api/get_sucursales.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/grupoc19/public_html/api/get_sucursales.php on line 16
+[03-Feb-2020 01:30:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_all() on bool in /home3/grupoc19/public_html/api/get_sucursales.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/grupoc19/public_html/api/get_sucursales.php on line 16
+[03-Feb-2020 01:30:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_all() on bool in /home3/grupoc19/public_html/api/get_sucursales.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/grupoc19/public_html/api/get_sucursales.php on line 16
+[03-Feb-2020 01:31:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_all() on bool in /home3/grupoc19/public_html/api/get_sucursales.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/grupoc19/public_html/api/get_sucursales.php on line 16
+[04-Feb-2020 19:08:24 UTC] PHP Warning:  file_get_contents(login.php?usuario=yorksgomez%40hotmail.com&amp;contrasena=2339de144d8a4a1198adf8142b6d3421ec0baacea13c9ade42a93071b6d62e43&amp;tipo=admin): failed to open stream: No such file or directory in /home3/grupoc19/public_html/api/confirm_admin.php on line 8
+[04-Feb-2020 19:08:47 UTC] PHP Warning:  file_get_contents(login.php?usuario=yorksgomez%40hotmail.com&amp;contrasena=2339de144d8a4a1198adf8142b6d3421ec0baacea13c9ade42a93071b6d62e43&amp;tipo=admin): failed to open stream: No such file or directory in /home3/grupoc19/public_html/api/confirm_admin.php on line 8
+[04-Feb-2020 19:08:47 UTC] PHP Warning:  file_get_contents(login.php?usuario=yorksgomez%40hotmail.com&amp;contrasena=2339de144d8a4a1198adf8142b6d3421ec0baacea13c9ade42a93071b6d62e43&amp;tipo=admin): failed to open stream: No such file or directory in /home3/grupoc19/public_html/api/confirm_admin.php on line 8
+[04-Feb-2020 19:08:51 UTC] PHP Warning:  file_get_contents(login.php?usuario=yorksgomez%40hotmail.com&amp;contrasena=2339de144d8a4a1198adf8142b6d3421ec0baacea13c9ade42a93071b6d62e43&amp;tipo=admin): failed to open stream: No such file or directory in /home3/grupoc19/public_html/api/confirm_admin.php on line 8
+[04-Feb-2020 19:08:51 UTC] PHP Warning:  file_get_contents(login.php?usuario=yorksgomez%40hotmail.com&amp;contrasena=2339de144d8a4a1198adf8142b6d3421ec0baacea13c9ade42a93071b6d62e43&amp;tipo=admin): failed to open stream: No such file or directory in /home3/grupoc19/public_html/api/confirm_admin.php on line 8
+[04-Feb-2020 19:09:18 UTC] PHP Warning:  file_get_contents(login.php?usuario=yorksgomez%40hotmail.com&amp;contrasena=2339de144d8a4a1198adf8142b6d3421ec0baacea13c9ade42a93071b6d62e43&amp;tipo=sucursal): failed to open stream: No such file or directory in /home3/grupoc19/public_html/api/confirm_sucursal.php on line 8
+[04-Feb-2020 19:09:18 UTC] PHP Warning:  file_get_contents(login.php?usuario=yorksgomez%40hotmail.com&amp;contrasena=2339de144d8a4a1198adf8142b6d3421ec0baacea13c9ade42a93071b6d62e43&amp;tipo=admin): failed to open stream: No such file or directory in /home3/grupoc19/public_html/api/confirm_admin.php on line 8
+[04-Feb-2020 19:12:18 UTC] PHP Warning:  file_get_contents(login.php?usuario=yorksgomez%40gmail.com&amp;contrasena=6ca13d52ca70c883e0f0bb101e425a89e8624de51db2d2392593af6a84118090&amp;tipo=sucursal): failed to open stream: No such file or directory in /home3/grupoc19/public_html/api/confirm_sucursal.php on line 8
+[04-Feb-2020 19:12:18 UTC] PHP Warning:  file_get_contents(login.php?usuario=yorksgomez%40gmail.com&amp;contrasena=6ca13d52ca70c883e0f0bb101e425a89e8624de51db2d2392593af6a84118090&amp;tipo=admin): failed to open stream: No such file or directory in /home3/grupoc19/public_html/api/confirm_admin.php on line 8
+[04-Feb-2020 19:13:03 UTC] PHP Warning:  file_get_contents(login.php?usuario=yorksgomez%40gmail.com&amp;contrasena=6ca13d52ca70c883e0f0bb101e425a89e8624de51db2d2392593af6a84118090&amp;tipo=sucursal): failed to open stream: No such file or directory in /home3/grupoc19/public_html/api/confirm_sucursal.php on line 8
+[04-Feb-2020 19:13:03 UTC] PHP Warning:  file_get_contents(login.php?usuario=yorksgomez%40gmail.com&amp;contrasena=6ca13d52ca70c883e0f0bb101e425a89e8624de51db2d2392593af6a84118090&amp;tipo=admin): failed to open stream: No such file or directory in /home3/grupoc19/public_html/api/confirm_admin.php on line 8
+[04-Feb-2020 19:13:05 UTC] PHP Warning:  file_get_contents(login.php?usuario=yorksgomez%40gmail.com&amp;contrasena=6ca13d52ca70c883e0f0bb101e425a89e8624de51db2d2392593af6a84118090&amp;tipo=sucursal): failed to open stream: No such file or directory in /home3/grupoc19/public_html/api/confirm_sucursal.php on line 8
+[04-Feb-2020 19:13:05 UTC] PHP Warning:  file_get_contents(login.php?usuario=yorksgomez%40gmail.com&amp;contrasena=6ca13d52ca70c883e0f0bb101e425a89e8624de51db2d2392593af6a84118090&amp;tipo=admin): failed to open stream: No such file or directory in /home3/grupoc19/public_html/api/confirm_admin.php on line 8
+[04-Feb-2020 19:13:28 UTC] PHP Warning:  file_get_contents(login.php?usuario=yorksgomez%40gmail.com&amp;contrasena=6ca13d52ca70c883e0f0bb101e425a89e8624de51db2d2392593af6a84118090&amp;tipo=sucursal): failed to open stream: No such file or directory in /home3/grupoc19/public_html/api/confirm_sucursal.php on line 8
+[04-Feb-2020 19:13:28 UTC] PHP Warning:  file_get_contents(login.php?usuario=yorksgomez%40gmail.com&amp;contrasena=6ca13d52ca70c883e0f0bb101e425a89e8624de51db2d2392593af6a84118090&amp;tipo=admin): failed to open stream: No such file or directory in /home3/grupoc19/public_html/api/confirm_admin.php on line 8
+[04-Feb-2020 19:13:31 UTC] PHP Warning:  file_get_contents(login.php?usuario=yorksgomez%40gmail.com&amp;contrasena=6ca13d52ca70c883e0f0bb101e425a89e8624de51db2d2392593af6a84118090&amp;tipo=sucursal): failed to open stream: No such file or directory in /home3/grupoc19/public_html/api/confirm_sucursal.php on line 8
+[04-Feb-2020 19:13:31 UTC] PHP Warning:  file_get_contents(login.php?usuario=yorksgomez%40gmail.com&amp;contrasena=6ca13d52ca70c883e0f0bb101e425a89e8624de51db2d2392593af6a84118090&amp;tipo=admin): failed to open stream: No such file or directory in /home3/grupoc19/public_html/api/confirm_admin.php on line 8
+[04-Feb-2020 19:15:49 UTC] PHP Warning:  file_get_contents(login.php?usuario=yorksgomez%40gmail.com&amp;contrasena=6ca13d52ca70c883e0f0bb101e425a89e8624de51db2d2392593af6a84118090&amp;tipo=sucursal): failed to open stream: No such file or directory in /home3/grupoc19/public_html/api/confirm_sucursal.php on line 8
+[04-Feb-2020 19:15:49 UTC] PHP Warning:  file_get_contents(login.php?usuario=yorksgomez%40gmail.com&amp;contrasena=6ca13d52ca70c883e0f0bb101e425a89e8624de51db2d2392593af6a84118090&amp;tipo=admin): failed to open stream: No such file or directory in /home3/grupoc19/public_html/api/confirm_admin.php on line 8
+[04-Feb-2020 19:15:50 UTC] PHP Warning:  file_get_contents(login.php?usuario=yorksgomez%40gmail.com&amp;contrasena=6ca13d52ca70c883e0f0bb101e425a89e8624de51db2d2392593af6a84118090&amp;tipo=sucursal): failed to open stream: No such file or directory in /home3/grupoc19/public_html/api/confirm_sucursal.php on line 8
+[04-Feb-2020 19:15:50 UTC] PHP Warning:  file_get_contents(login.php?usuario=yorksgomez%40gmail.com&amp;contrasena=6ca13d52ca70c883e0f0bb101e425a89e8624de51db2d2392593af6a84118090&amp;tipo=admin): failed to open stream: No such file or directory in /home3/grupoc19/public_html/api/confirm_admin.php on line 8
+[04-Feb-2020 19:15:50 UTC] PHP Warning:  file_get_contents(login.php?usuario=yorksgomez%40gmail.com&amp;contrasena=6ca13d52ca70c883e0f0bb101e425a89e8624de51db2d2392593af6a84118090&amp;tipo=sucursal): failed to open stream: No such file or directory in /home3/grupoc19/public_html/api/confirm_sucursal.php on line 8
+[04-Feb-2020 19:15:50 UTC] PHP Warning:  file_get_contents(login.php?usuario=yorksgomez%40gmail.com&amp;contrasena=6ca13d52ca70c883e0f0bb101e425a89e8624de51db2d2392593af6a84118090&amp;tipo=admin): failed to open stream: No such file or directory in /home3/grupoc19/public_html/api/confirm_admin.php on line 8
+[04-Feb-2020 19:15:51 UTC] PHP Warning:  file_get_contents(login.php?usuario=yorksgomez%40gmail.com&amp;contrasena=6ca13d52ca70c883e0f0bb101e425a89e8624de51db2d2392593af6a84118090&amp;tipo=sucursal): failed to open stream: No such file or directory in /home3/grupoc19/public_html/api/confirm_sucursal.php on line 8
+[04-Feb-2020 19:15:51 UTC] PHP Warning:  file_get_contents(login.php?usuario=yorksgomez%40gmail.com&amp;contrasena=6ca13d52ca70c883e0f0bb101e425a89e8624de51db2d2392593af6a84118090&amp;tipo=admin): failed to open stream: No such file or directory in /home3/grupoc19/public_html/api/confirm_admin.php on line 8
+[04-Feb-2020 19:15:51 UTC] PHP Warning:  file_get_contents(login.php?usuario=yorksgomez%40gmail.com&amp;contrasena=6ca13d52ca70c883e0f0bb101e425a89e8624de51db2d2392593af6a84118090&amp;tipo=sucursal): failed to open stream: No such file or directory in /home3/grupoc19/public_html/api/confirm_sucursal.php on line 8
+[04-Feb-2020 19:15:51 UTC] PHP Warning:  file_get_contents(login.php?usuario=yorksgomez%40gmail.com&amp;contrasena=6ca13d52ca70c883e0f0bb101e425a89e8624de51db2d2392593af6a84118090&amp;tipo=admin): failed to open stream: No such file or directory in /home3/grupoc19/public_html/api/confirm_admin.php on line 8
+[04-Feb-2020 19:15:51 UTC] PHP Warning:  file_get_contents(login.php?usuario=yorksgomez%40gmail.com&amp;contrasena=6ca13d52ca70c883e0f0bb101e425a89e8624de51db2d2392593af6a84118090&amp;tipo=sucursal): failed to open stream: No such file or directory in /home3/grupoc19/public_html/api/confirm_sucursal.php on line 8
+[04-Feb-2020 19:15:51 UTC] PHP Warning:  file_get_contents(login.php?usuario=yorksgomez%40gmail.com&amp;contrasena=6ca13d52ca70c883e0f0bb101e425a89e8624de51db2d2392593af6a84118090&amp;tipo=admin): failed to open stream: No such file or directory in /home3/grupoc19/public_html/api/confirm_admin.php on line 8
+[04-Feb-2020 19:15:51 UTC] PHP Warning:  file_get_contents(login.php?usuario=yorksgomez%40gmail.com&amp;contrasena=6ca13d52ca70c883e0f0bb101e425a89e8624de51db2d2392593af6a84118090&amp;tipo=sucursal): failed to open stream: No such file or directory in /home3/grupoc19/public_html/api/confirm_sucursal.php on line 8
+[04-Feb-2020 19:15:51 UTC] PHP Warning:  file_get_contents(login.php?usuario=yorksgomez%40gmail.com&amp;contrasena=6ca13d52ca70c883e0f0bb101e425a89e8624de51db2d2392593af6a84118090&amp;tipo=admin): failed to open stream: No such file or directory in /home3/grupoc19/public_html/api/confirm_admin.php on line 8
+[04-Feb-2020 19:16:44 UTC] PHP Warning:  file_get_contents(login.php?usuario=yorksgomez%40gmail.com&amp;contrasena=6ca13d52ca70c883e0f0bb101e425a89e8624de51db2d2392593af6a84118090&amp;tipo=sucursal): failed to open stream: No such file or directory in /home3/grupoc19/public_html/api/confirm_sucursal.php on line 8
+[04-Feb-2020 19:16:44 UTC] PHP Warning:  file_get_contents(login.php?usuario=yorksgomez%40gmail.com&amp;contrasena=6ca13d52ca70c883e0f0bb101e425a89e8624de51db2d2392593af6a84118090&amp;tipo=admin): failed to open stream: No such file or directory in /home3/grupoc19/public_html/api/confirm_admin.php on line 8
+[04-Feb-2020 19:17:28 UTC] PHP Warning:  file_get_contents(login.php?usuario=yorksgomez%40hotmail.com&amp;contrasena=6ca13d52ca70c883e0f0bb101e425a89e8624de51db2d2392593af6a84118090&amp;tipo=sucursal): failed to open stream: No such file or directory in /home3/grupoc19/public_html/api/confirm_sucursal.php on line 8
+[04-Feb-2020 19:17:28 UTC] PHP Warning:  file_get_contents(login.php?usuario=yorksgomez%40hotmail.com&amp;contrasena=6ca13d52ca70c883e0f0bb101e425a89e8624de51db2d2392593af6a84118090&amp;tipo=admin): failed to open stream: No such file or directory in /home3/grupoc19/public_html/api/confirm_admin.php on line 8
+[04-Feb-2020 19:19:29 UTC] PHP Warning:  file_get_contents(login.php?usuario=yorksgomez%40hotmail.com&amp;contrasena=6ca13d52ca70c883e0f0bb101e425a89e8624de51db2d2392593af6a84118090&amp;tipo=sucursal): failed to open stream: No such file or directory in /home3/grupoc19/public_html/api/confirm_sucursal.php on line 8
+[04-Feb-2020 19:19:29 UTC] PHP Warning:  file_get_contents(./login.php?usuario=yorksgomez%40hotmail.com&amp;contrasena=6ca13d52ca70c883e0f0bb101e425a89e8624de51db2d2392593af6a84118090&amp;tipo=admin): failed to open stream: No such file or directory in /home3/grupoc19/public_html/api/confirm_admin.php on line 8
+[04-Feb-2020 19:19:30 UTC] PHP Warning:  file_get_contents(login.php?usuario=yorksgomez%40hotmail.com&amp;contrasena=6ca13d52ca70c883e0f0bb101e425a89e8624de51db2d2392593af6a84118090&amp;tipo=sucursal): failed to open stream: No such file or directory in /home3/grupoc19/public_html/api/confirm_sucursal.php on line 8
+[04-Feb-2020 19:19:30 UTC] PHP Warning:  file_get_contents(./login.php?usuario=yorksgomez%40hotmail.com&amp;contrasena=6ca13d52ca70c883e0f0bb101e425a89e8624de51db2d2392593af6a84118090&amp;tipo=admin): failed to open stream: No such file or directory in /home3/grupoc19/public_html/api/confirm_admin.php on line 8
+[04-Feb-2020 19:19:32 UTC] PHP Warning:  file_get_contents(login.php?usuario=yorksgomez%40hotmail.com&amp;contrasena=6ca13d52ca70c883e0f0bb101e425a89e8624de51db2d2392593af6a84118090&amp;tipo=sucursal): failed to open stream: No such file or directory in /home3/grupoc19/public_html/api/confirm_sucursal.php on line 8
+[04-Feb-2020 19:19:32 UTC] PHP Warning:  file_get_contents(./login.php?usuario=yorksgomez%40hotmail.com&amp;contrasena=6ca13d52ca70c883e0f0bb101e425a89e8624de51db2d2392593af6a84118090&amp;tipo=admin): failed to open stream: No such file or directory in /home3/grupoc19/public_html/api/confirm_admin.php on line 8
+[04-Feb-2020 19:21:38 UTC] PHP Warning:  file_get_contents(login.php?usuario=yorksgomez%40hotmail.com&amp;contrasena=6ca13d52ca70c883e0f0bb101e425a89e8624de51db2d2392593af6a84118090&amp;tipo=sucursal): failed to open stream: No such file or directory in /home3/grupoc19/public_html/api/confirm_sucursal.php on line 8
+[04-Feb-2020 19:21:38 UTC] PHP Warning:  file_get_contents(login.php?usuario=yorksgomez%40hotmail.com&amp;contrasena=6ca13d52ca70c883e0f0bb101e425a89e8624de51db2d2392593af6a84118090&amp;tipo=admin): failed to open stream: No such file or directory in /home3/grupoc19/public_html/api/confirm_admin.php on line 11
+[04-Feb-2020 19:26:28 UTC] PHP Warning:  file_get_contents(https://elestan.co/api/usuario=yorksgomez%40hotmail.com&amp;contrasena=6ca13d52ca70c883e0f0bb101e425a89e8624de51db2d2392593af6a84118090&amp;tipo=admin): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home3/grupoc19/public_html/api/confirm_admin.php on line 10
+[04-Feb-2020 19:26:30 UTC] PHP Warning:  file_get_contents(https://elestan.co/api/usuario=yorksgomez%40hotmail.com&amp;contrasena=6ca13d52ca70c883e0f0bb101e425a89e8624de51db2d2392593af6a84118090&amp;tipo=admin): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home3/grupoc19/public_html/api/confirm_admin.php on line 10
+[04-Feb-2020 19:26:30 UTC] PHP Warning:  file_get_contents(https://elestan.co/api/usuario=yorksgomez%40hotmail.com&amp;contrasena=6ca13d52ca70c883e0f0bb101e425a89e8624de51db2d2392593af6a84118090&amp;tipo=admin): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home3/grupoc19/public_html/api/confirm_admin.php on line 10
+[04-Feb-2020 19:27:23 UTC] PHP Warning:  file_get_contents(https://elestan.co/api/usuario=yorksgomez%40hotmail.com&amp;contrasena=6ca13d52ca70c883e0f0bb101e425a89e8624de51db2d2392593af6a84118090&amp;tipo=admin): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home3/grupoc19/public_html/api/confirm_admin.php on line 10
+[05-Feb-2020 15:25:28 UTC] PHP Notice:  Undefined index: u32 in /home3/grupoc19/public_html/api/confirm_sucursal.php on line 8
+[05-Feb-2020 15:25:28 UTC] PHP Notice:  Undefined index: cpno in /home3/grupoc19/public_html/api/confirm_sucursal.php on line 8
+[10-Feb-2020 17:23:43 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home3/grupoc19/public_html/api/add_product.php on line 26
+[11-Feb-2020 21:05:31 UTC] PHP Warning:  file_put_contents(images/): failed to open stream: Is a directory in /home3/grupoc19/public_html/api/add_product.php on line 34
+[12-Feb-2020 14:05:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home3/grupoc19/public_html/api/update_city.php:23
+Stack trace:
+#0 {main}
+  thrown in /home3/grupoc19/public_html/api/update_city.php on line 23
+[12-Feb-2020 14:05:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home3/grupoc19/public_html/api/update_city.php:23
+Stack trace:
+#0 {main}
+  thrown in /home3/grupoc19/public_html/api/update_city.php on line 23
+[12-Feb-2020 14:07:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home3/grupoc19/public_html/api/update_city.php:23
+Stack trace:
+#0 {main}
+  thrown in /home3/grupoc19/public_html/api/update_city.php on line 23
+[12-Feb-2020 14:08:52 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home3/grupoc19/public_html/api/update_city.php:23
+Stack trace:
+#0 {main}
+  thrown in /home3/grupoc19/public_html/api/update_city.php on line 23
+[12-Feb-2020 14:09:40 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home3/grupoc19/public_html/api/update_city.php:26
+Stack trace:
+#0 {main}
+  thrown in /home3/grupoc19/public_html/api/update_city.php on line 26
+[19-Feb-2020 16:02:30 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function ParamGroup::__construct(), 1 passed in /home3/grupoc19/public_html/api/get_pedidos.php on line 19 and exactly 2 expected in /home3/grupoc19/public_html/api/params.php:12
+Stack trace:
+#0 /home3/grupoc19/public_html/api/get_pedidos.php(19): ParamGroup->__construct('')
+#1 {main}
+  thrown in /home3/grupoc19/public_html/api/params.php on line 12
+[19-Feb-2020 16:02:33 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function ParamGroup::__construct(), 1 passed in /home3/grupoc19/public_html/api/get_products.php on line 20 and exactly 2 expected in /home3/grupoc19/public_html/api/params.php:12
+Stack trace:
+#0 /home3/grupoc19/public_html/api/get_products.php(20): ParamGroup->__construct('categoria=')
+#1 {main}
+  thrown in /home3/grupoc19/public_html/api/params.php on line 12
+[19-Feb-2020 16:02:34 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function ParamGroup::__construct(), 1 passed in /home3/grupoc19/public_html/api/get_pedidos.php on line 19 and exactly 2 expected in /home3/grupoc19/public_html/api/params.php:12
+Stack trace:
+#0 /home3/grupoc19/public_html/api/get_pedidos.php(19): ParamGroup->__construct('')
+#1 {main}
+  thrown in /home3/grupoc19/public_html/api/params.php on line 12
+[19-Feb-2020 16:03:36 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function ParamGroup::__construct(), 1 passed in /home3/grupoc19/public_html/api/get_products.php on line 20 and exactly 2 expected in /home3/grupoc19/public_html/api/params.php:12
+Stack trace:
+#0 /home3/grupoc19/public_html/api/get_products.php(20): ParamGroup->__construct('categoria=')
+#1 {main}
+  thrown in /home3/grupoc19/public_html/api/params.php on line 12
+[19-Feb-2020 16:04:16 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function ParamGroup::__construct(), 1 passed in /home3/grupoc19/public_html/api/get_products.php on line 20 and exactly 2 expected in /home3/grupoc19/public_html/api/params.php:12
+Stack trace:
+#0 /home3/grupoc19/public_html/api/get_products.php(20): ParamGroup->__construct('categoria=')
+#1 {main}
+  thrown in /home3/grupoc19/public_html/api/params.php on line 12
+[19-Feb-2020 16:05:21 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function ParamGroup::__construct(), 1 passed in /home3/grupoc19/public_html/api/get_products.php on line 23 and exactly 2 expected in /home3/grupoc19/public_html/api/params.php:12
+Stack trace:
+#0 /home3/grupoc19/public_html/api/get_products.php(23): ParamGroup->__construct('categoria=')
+#1 {main}
+  thrown in /home3/grupoc19/public_html/api/params.php on line 12
+[20-Feb-2020 14:00:40 UTC] PHP Fatal error:  Cannot use positional argument after argument unpacking in /home3/grupoc19/public_html/api/update_product.php on line 33
+[20-Feb-2020 14:00:42 UTC] PHP Fatal error:  Cannot use positional argument after argument unpacking in /home3/grupoc19/public_html/api/update_product.php on line 33
+[20-Feb-2020 14:05:51 UTC] PHP Fatal error:  Cannot use positional argument after argument unpacking in /home3/grupoc19/public_html/api/update_product.php on line 33
+[20-Feb-2020 14:06:22 UTC] PHP Fatal error:  Cannot use positional argument after argument unpacking in /home3/grupoc19/public_html/api/update_product.php on line 36
+[20-Feb-2020 14:06:24 UTC] PHP Fatal error:  Cannot use positional argument after argument unpacking in /home3/grupoc19/public_html/api/update_product.php on line 36
+[20-Feb-2020 14:06:32 UTC] PHP Fatal error:  Cannot use positional argument after argument unpacking in /home3/grupoc19/public_html/api/update_product.php on line 36
+[20-Feb-2020 14:08:21 UTC] PHP Notice:  Undefined index: id_producto in /home3/grupoc19/public_html/api/update_product.php on line 29
+[20-Feb-2020 14:08:53 UTC] PHP Fatal error:  Cannot use positional argument after argument unpacking in /home3/grupoc19/public_html/api/update_product.php on line 34
+[20-Feb-2020 14:09:13 UTC] PHP Notice:  Undefined property: UpdateParam::$value in /home3/grupoc19/public_html/api/params.php on line 147
+[20-Feb-2020 14:09:13 UTC] PHP Notice:  Undefined property: UpdateParam::$key in /home3/grupoc19/public_html/api/params.php on line 149
+[20-Feb-2020 14:09:13 UTC] PHP Notice:  Undefined property: UpdateParam::$key in /home3/grupoc19/public_html/api/params.php on line 149
+[20-Feb-2020 14:09:13 UTC] PHP Notice:  Undefined property: UpdateParam::$value in /home3/grupoc19/public_html/api/params.php on line 147
+[20-Feb-2020 14:09:13 UTC] PHP Notice:  Undefined property: UpdateParam::$key in /home3/grupoc19/public_html/api/params.php on line 149
+[20-Feb-2020 14:09:13 UTC] PHP Notice:  Undefined property: UpdateParam::$key in /home3/grupoc19/public_html/api/params.php on line 149
+[20-Feb-2020 14:09:13 UTC] PHP Notice:  Undefined property: UpdateParam::$value in /home3/grupoc19/public_html/api/params.php on line 147
+[20-Feb-2020 14:09:13 UTC] PHP Notice:  Undefined property: UpdateParam::$key in /home3/grupoc19/public_html/api/params.php on line 149
+[20-Feb-2020 14:09:13 UTC] PHP Notice:  Undefined property: UpdateParam::$key in /home3/grupoc19/public_html/api/params.php on line 149
+[20-Feb-2020 14:09:13 UTC] PHP Notice:  Undefined property: UpdateParam::$value in /home3/grupoc19/public_html/api/params.php on line 147
+[20-Feb-2020 14:09:13 UTC] PHP Notice:  Undefined property: UpdateParam::$key in /home3/grupoc19/public_html/api/params.php on line 149
+[20-Feb-2020 14:09:13 UTC] PHP Notice:  Undefined property: UpdateParam::$key in /home3/grupoc19/public_html/api/params.php on line 149
+[20-Feb-2020 14:54:41 UTC] PHP Notice:  Undefined property: UpdateParam::$value in /home3/grupoc19/public_html/api/params.php on line 147
+[20-Feb-2020 14:54:41 UTC] PHP Notice:  Undefined property: UpdateParam::$key in /home3/grupoc19/public_html/api/params.php on line 149
+[20-Feb-2020 14:54:41 UTC] PHP Notice:  Undefined property: UpdateParam::$key in /home3/grupoc19/public_html/api/params.php on line 149
+[20-Feb-2020 14:54:41 UTC] PHP Notice:  Undefined property: UpdateParam::$value in /home3/grupoc19/public_html/api/params.php on line 147
+[20-Feb-2020 14:54:41 UTC] PHP Notice:  Undefined property: UpdateParam::$key in /home3/grupoc19/public_html/api/params.php on line 149
+[20-Feb-2020 14:54:41 UTC] PHP Notice:  Undefined property: UpdateParam::$key in /home3/grupoc19/public_html/api/params.php on line 149
+[20-Feb-2020 14:54:41 UTC] PHP Notice:  Undefined property: UpdateParam::$value in /home3/grupoc19/public_html/api/params.php on line 147
+[20-Feb-2020 14:54:41 UTC] PHP Notice:  Undefined property: UpdateParam::$key in /home3/grupoc19/public_html/api/params.php on line 149
+[20-Feb-2020 14:54:41 UTC] PHP Notice:  Undefined property: UpdateParam::$key in /home3/grupoc19/public_html/api/params.php on line 149
+[20-Feb-2020 14:54:41 UTC] PHP Notice:  Undefined property: UpdateParam::$value in /home3/grupoc19/public_html/api/params.php on line 147
+[20-Feb-2020 14:54:41 UTC] PHP Notice:  Undefined property: UpdateParam::$key in /home3/grupoc19/public_html/api/params.php on line 149
+[20-Feb-2020 14:54:41 UTC] PHP Notice:  Undefined property: UpdateParam::$key in /home3/grupoc19/public_html/api/params.php on line 149
+[20-Feb-2020 15:02:24 UTC] PHP Fatal error:  Cannot use positional argument after argument unpacking in /home3/grupoc19/public_html/api/update_product.php on line 36
+[20-Feb-2020 15:03:02 UTC] PHP Fatal error:  Cannot use positional argument after argument unpacking in /home3/grupoc19/public_html/api/update_product.php on line 36
+[20-Feb-2020 15:03:54 UTC] PHP Fatal error:  Cannot use positional argument after argument unpacking in /home3/grupoc19/public_html/api/update_product.php on line 38
+[20-Feb-2020 15:07:15 UTC] PHP Notice:  Only variables should be passed by reference in /home3/grupoc19/public_html/api/update_product.php on line 36
+[20-Feb-2020 15:07:15 UTC] PHP Warning:  Only arrays and Traversables can be unpacked in /home3/grupoc19/public_html/api/update_product.php on line 36
+[20-Feb-2020 15:07:15 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home3/grupoc19/public_html/api/update_product.php on line 36
+[20-Feb-2020 15:08:04 UTC] PHP Notice:  Only variables should be passed by reference in /home3/grupoc19/public_html/api/update_product.php on line 35
+[20-Feb-2020 15:08:04 UTC] PHP Warning:  Only arrays and Traversables can be unpacked in /home3/grupoc19/public_html/api/update_product.php on line 38
+[20-Feb-2020 15:08:04 UTC] PHP Warning:  Wrong parameter count for mysqli_stmt::bind_param() in /home3/grupoc19/public_html/api/update_product.php on line 38
+[21-Feb-2020 13:56:47 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home3/grupoc19/public_html/api/update_account.php:36
+Stack trace:
+#0 {main}
+  thrown in /home3/grupoc19/public_html/api/update_account.php on line 36
+[21-Feb-2020 14:03:23 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home3/grupoc19/public_html/api/update_account.php:36
+Stack trace:
+#0 {main}
+  thrown in /home3/grupoc19/public_html/api/update_account.php on line 36
+[21-Feb-2020 14:04:05 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home3/grupoc19/public_html/api/update_account.php:39
+Stack trace:
+#0 {main}
+  thrown in /home3/grupoc19/public_html/api/update_account.php on line 39
+[21-Feb-2020 14:04:36 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home3/grupoc19/public_html/api/update_account.php:40
+Stack trace:
+#0 {main}
+  thrown in /home3/grupoc19/public_html/api/update_account.php on line 40
+[26-Feb-2020 09:25:03 America/Bogota] PHP Parse error:  syntax error, unexpected '$param_group' (T_VARIABLE) in /home3/grupoc19/public_html/api/update_product.php on line 26
+[26-Feb-2020 09:25:21 America/Bogota] PHP Parse error:  syntax error, unexpected '$param_group' (T_VARIABLE) in /home3/grupoc19/public_html/api/update_product.php on line 26
+[26-Feb-2020 09:28:18 America/Bogota] PHP Fatal error:  Uncaught ImagickException: Zero size image string passed in /home3/grupoc19/public_html/api/update_product.php:48
+Stack trace:
+#0 /home3/grupoc19/public_html/api/update_product.php(48): Imagick->readimageblob('')
+#1 {main}
+  thrown in /home3/grupoc19/public_html/api/update_product.php on line 48
+[26-Feb-2020 09:31:00 America/Bogota] PHP Fatal error:  Uncaught ImagickException: Zero size image string passed in /home3/grupoc19/public_html/api/update_product.php:48
+Stack trace:
+#0 /home3/grupoc19/public_html/api/update_product.php(48): Imagick->readimageblob('')
+#1 {main}
+  thrown in /home3/grupoc19/public_html/api/update_product.php on line 48
+[26-Feb-2020 09:31:13 America/Bogota] PHP Fatal error:  Uncaught ImagickException: Zero size image string passed in /home3/grupoc19/public_html/api/update_product.php:48
+Stack trace:
+#0 /home3/grupoc19/public_html/api/update_product.php(48): Imagick->readimageblob('')
+#1 {main}
+  thrown in /home3/grupoc19/public_html/api/update_product.php on line 48
+[26-Feb-2020 09:31:25 America/Bogota] PHP Fatal error:  Uncaught ImagickException: Zero size image string passed in /home3/grupoc19/public_html/api/update_product.php:48
+Stack trace:
+#0 /home3/grupoc19/public_html/api/update_product.php(48): Imagick->readimageblob('')
+#1 {main}
+  thrown in /home3/grupoc19/public_html/api/update_product.php on line 48
+[26-Feb-2020 09:31:49 America/Bogota] PHP Notice:  Undefined index: params in /home3/grupoc19/public_html/api/update_product.php on line 21
+[26-Feb-2020 09:31:49 America/Bogota] PHP Notice:  Undefined index: imagen_data in /home3/grupoc19/public_html/api/update_product.php on line 47
+[26-Feb-2020 09:31:49 America/Bogota] PHP Fatal error:  Uncaught ImagickException: Zero size image string passed in /home3/grupoc19/public_html/api/update_product.php:51
+Stack trace:
+#0 /home3/grupoc19/public_html/api/update_product.php(51): Imagick->readimageblob('')
+#1 {main}
+  thrown in /home3/grupoc19/public_html/api/update_product.php on line 51
+[26-Feb-2020 09:32:13 America/Bogota] PHP Notice:  Undefined index: params in /home3/grupoc19/public_html/api/update_product.php on line 23
+[26-Feb-2020 09:32:13 America/Bogota] PHP Notice:  Undefined index: imagen_data in /home3/grupoc19/public_html/api/update_product.php on line 49
+[26-Feb-2020 09:32:13 America/Bogota] PHP Fatal error:  Uncaught ImagickException: Zero size image string passed in /home3/grupoc19/public_html/api/update_product.php:53
+Stack trace:
+#0 /home3/grupoc19/public_html/api/update_product.php(53): Imagick->readimageblob('')
+#1 {main}
+  thrown in /home3/grupoc19/public_html/api/update_product.php on line 53
+[26-Feb-2020 09:33:33 America/Bogota] PHP Notice:  Undefined index: params in /home3/grupoc19/public_html/api/update_product.php on line 23
+[26-Feb-2020 09:33:33 America/Bogota] PHP Notice:  Undefined index: imagen_data in /home3/grupoc19/public_html/api/update_product.php on line 49
+[26-Feb-2020 09:33:33 America/Bogota] PHP Fatal error:  Uncaught ImagickException: Zero size image string passed in /home3/grupoc19/public_html/api/update_product.php:53
+Stack trace:
+#0 /home3/grupoc19/public_html/api/update_product.php(53): Imagick->readimageblob('')
+#1 {main}
+  thrown in /home3/grupoc19/public_html/api/update_product.php on line 53
+[26-Feb-2020 09:37:44 America/Bogota] PHP Notice:  Undefined variable: imagen in /home3/grupoc19/public_html/api/update_product.php on line 57
+[26-Feb-2020 09:37:44 America/Bogota] PHP Warning:  file_put_contents(images/): failed to open stream: Is a directory in /home3/grupoc19/public_html/api/update_product.php on line 57
+[26-Feb-2020 09:37:59 America/Bogota] PHP Notice:  Undefined variable: imagen in /home3/grupoc19/public_html/api/update_product.php on line 57
+[26-Feb-2020 09:37:59 America/Bogota] PHP Warning:  file_put_contents(images/): failed to open stream: Is a directory in /home3/grupoc19/public_html/api/update_product.php on line 57
+[26-Feb-2020 09:38:18 America/Bogota] PHP Notice:  Undefined variable: imagen in /home3/grupoc19/public_html/api/update_product.php on line 57
+[26-Feb-2020 09:38:18 America/Bogota] PHP Warning:  file_put_contents(images/): failed to open stream: Is a directory in /home3/grupoc19/public_html/api/update_product.php on line 57
+[26-Feb-2020 09:41:45 America/Bogota] PHP Recoverable fatal error:  Object of class UpdateParam could not be converted to string in /home3/grupoc19/public_html/api/update_product.php on line 57
+[26-Feb-2020 09:44:57 America/Bogota] PHP Fatal error:  Uncaught ImagickException: Zero size image string passed in /home3/grupoc19/public_html/api/update_product.php:48
+Stack trace:
+#0 /home3/grupoc19/public_html/api/update_product.php(48): Imagick->readimageblob('')
+#1 {main}
+  thrown in /home3/grupoc19/public_html/api/update_product.php on line 48
+[26-Feb-2020 09:45:09 America/Bogota] PHP Fatal error:  Uncaught ImagickException: Zero size image string passed in /home3/grupoc19/public_html/api/update_product.php:48
+Stack trace:
+#0 /home3/grupoc19/public_html/api/update_product.php(48): Imagick->readimageblob('')
+#1 {main}
+  thrown in /home3/grupoc19/public_html/api/update_product.php on line 48
+[03-Mar-2020 09:57:01 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function fetch_row() on bool in /home3/grupoc19/public_html/api/update_contrasena.php:14
+Stack trace:
+#0 {main}
+  thrown in /home3/grupoc19/public_html/api/update_contrasena.php on line 14
+[03-Mar-2020 09:59:17 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function fetch_row() on bool in /home3/grupoc19/public_html/api/update_contrasena.php:14
+Stack trace:
+#0 {main}
+  thrown in /home3/grupoc19/public_html/api/update_contrasena.php on line 14
+[03-Mar-2020 13:51:06 America/Bogota] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home3/grupoc19/public_html/api/get_subcategorias.php on line 18
+[03-Mar-2020 13:56:23 America/Bogota] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home3/grupoc19/public_html/api/get_subcategorias.php on line 18
+[03-Mar-2020 13:56:41 America/Bogota] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home3/grupoc19/public_html/api/get_subcategorias.php on line 21
+[03-Mar-2020 13:56:43 America/Bogota] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home3/grupoc19/public_html/api/get_subcategorias.php on line 21
+[06-Mar-2020 13:14:04 America/Bogota] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home3/grupoc19/public_html/api/get_subcategorias.php on line 19
+[06-Mar-2020 13:14:25 America/Bogota] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home3/grupoc19/public_html/api/get_subcategorias.php on line 19
+[06-Mar-2020 13:18:09 America/Bogota] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home3/grupoc19/public_html/api/get_subcategorias.php on line 20
+[06-Mar-2020 13:18:15 America/Bogota] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home3/grupoc19/public_html/api/get_subcategorias.php on line 20
+[06-Mar-2020 13:18:28 America/Bogota] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home3/grupoc19/public_html/api/get_subcategorias.php on line 20
+[06-Mar-2020 13:24:58 America/Bogota] PHP Warning:  Use of undefined constant aA - assumed 'aA' (this will throw an Error in a future version of PHP) in /home3/grupoc19/public_html/api/get_subcategorias.php on line 30
+[13-Mar-2020 09:34:41 America/Bogota] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home3/grupoc19/public_html/api/user_register.php on line 25
+[18-Mar-2020 12:09:49 America/Bogota] PHP Fatal error:  Uncaught ImagickException: Zero size image string passed in /home3/grupoc19/public_html/api/add_product.php:38
+Stack trace:
+#0 /home3/grupoc19/public_html/api/add_product.php(38): Imagick->readimageblob('')
+#1 {main}
+  thrown in /home3/grupoc19/public_html/api/add_product.php on line 38
+[18-Mar-2020 13:53:03 America/Bogota] PHP Fatal error:  Uncaught ImagickException: Zero size image string passed in /home3/grupoc19/public_html/api/add_product.php:38
+Stack trace:
+#0 /home3/grupoc19/public_html/api/add_product.php(38): Imagick->readimageblob('')
+#1 {main}
+  thrown in /home3/grupoc19/public_html/api/add_product.php on line 38
+[27-Mar-2020 10:34:50 America/Bogota] PHP Fatal error:  Uncaught ImagickException: Zero size image string passed in /home3/grupoc19/public_html/api/add_product.php:38
+Stack trace:
+#0 /home3/grupoc19/public_html/api/add_product.php(38): Imagick->readimageblob('')
+#1 {main}
+  thrown in /home3/grupoc19/public_html/api/add_product.php on line 38
+[27-Mar-2020 10:35:06 America/Bogota] PHP Fatal error:  Uncaught ImagickException: Zero size image string passed in /home3/grupoc19/public_html/api/add_product.php:38
+Stack trace:
+#0 /home3/grupoc19/public_html/api/add_product.php(38): Imagick->readimageblob('')
+#1 {main}
+  thrown in /home3/grupoc19/public_html/api/add_product.php on line 38
+[28-Mar-2020 00:03:00 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function fetch_row() on bool in /home3/grupoc19/public_html/api/update_contrasena.php:14
+Stack trace:
+#0 {main}
+  thrown in /home3/grupoc19/public_html/api/update_contrasena.php on line 14
+[28-Mar-2020 00:03:14 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function fetch_row() on bool in /home3/grupoc19/public_html/api/update_contrasena.php:14
+Stack trace:
+#0 {main}
+  thrown in /home3/grupoc19/public_html/api/update_contrasena.php on line 14
+[29-Mar-2020 07:05:30 America/Bogota] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home3/grupoc19/public_html/api/add_product.php on line 30
+[29-Mar-2020 07:05:56 America/Bogota] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home3/grupoc19/public_html/api/add_product.php on line 30
+[13-Apr-2020 08:45:51 America/Bogota] PHP Notice:  Undefined index: params in /home3/grupoc19/public_html/api/update_inventary.php on line 20
+[13-Apr-2020 08:46:13 America/Bogota] PHP Notice:  Undefined index: params in /home3/grupoc19/public_html/api/update_inventary.php on line 20
+[30-May-2020 16:53:47 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home3/grupoc19/public_html/api/add_pedidos.php:53
+Stack trace:
+#0 {main}
+  thrown in /home3/grupoc19/public_html/api/add_pedidos.php on line 53
+[02-Jun-2020 23:23:57 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home3/grupoc19/public_html/api/add_pedidos.php:53
+Stack trace:
+#0 {main}
+  thrown in /home3/grupoc19/public_html/api/add_pedidos.php on line 53
+[30-Aug-2020 14:19:34 America/Bogota] PHP Parse error:  syntax error, unexpected ',' in /home3/grupoc19/public_html/api/factura.php on line 54
+[30-Aug-2020 14:19:35 America/Bogota] PHP Parse error:  syntax error, unexpected ',' in /home3/grupoc19/public_html/api/factura.php on line 54
+[30-Aug-2020 14:19:35 America/Bogota] PHP Parse error:  syntax error, unexpected ',' in /home3/grupoc19/public_html/api/factura.php on line 54
+[30-Aug-2020 15:47:55 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function fetch_row() on bool in /home3/grupoc19/public_html/api/update_contrasena.php:14
+Stack trace:
+#0 {main}
+  thrown in /home3/grupoc19/public_html/api/update_contrasena.php on line 14
+[31-Aug-2020 20:33:21 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home3/grupoc19/public_html/api/imprimir_factura.php on line 33
+[31-Aug-2020 20:34:22 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home3/grupoc19/public_html/api/imprimir_factura.php on line 33
+[31-Aug-2020 20:34:58 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home3/grupoc19/public_html/api/imprimir_factura.php on line 33
+[31-Aug-2020 20:35:20 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home3/grupoc19/public_html/api/imprimir_factura.php on line 33
+[31-Aug-2020 20:35:41 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home3/grupoc19/public_html/api/imprimir_factura.php on line 33
+[31-Aug-2020 20:36:06 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home3/grupoc19/public_html/api/imprimir_factura.php on line 33
+[31-Aug-2020 20:36:39 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home3/grupoc19/public_html/api/imprimir_factura.php on line 33
+[31-Aug-2020 20:37:04 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home3/grupoc19/public_html/api/imprimir_factura.php on line 33
+[31-Aug-2020 20:37:36 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home3/grupoc19/public_html/api/imprimir_factura.php on line 33
+[31-Aug-2020 20:42:34 America/Bogota] PHP Parse error:  syntax error, unexpected 'const' (T_CONST) in /home3/grupoc19/public_html/api/imprimir_factura.php on line 15
+[31-Aug-2020 20:42:37 America/Bogota] PHP Parse error:  syntax error, unexpected 'const' (T_CONST) in /home3/grupoc19/public_html/api/imprimir_factura.php on line 15
+[31-Aug-2020 20:42:48 America/Bogota] PHP Parse error:  syntax error, unexpected 'const' (T_CONST) in /home3/grupoc19/public_html/api/imprimir_factura.php on line 15
+[31-Aug-2020 20:42:50 America/Bogota] PHP Parse error:  syntax error, unexpected 'const' (T_CONST) in /home3/grupoc19/public_html/api/imprimir_factura.php on line 15
+[01-Sep-2020 09:28:30 America/Bogota] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home3/grupoc19/public_html/api/imprimir_factura.php on line 25
+[01-Sep-2020 09:28:30 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home3/grupoc19/public_html/api/imprimir_factura.php on line 37
+[01-Sep-2020 09:31:03 America/Bogota] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home3/grupoc19/public_html/api/imprimir_factura.php on line 24
+[01-Sep-2020 09:31:03 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home3/grupoc19/public_html/api/imprimir_factura.php on line 33
+[01-Sep-2020 09:36:04 America/Bogota] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home3/grupoc19/public_html/api/imprimir_factura.php on line 24
+[01-Sep-2020 09:36:04 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home3/grupoc19/public_html/api/imprimir_factura.php on line 33
+[01-Sep-2020 09:36:38 America/Bogota] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home3/grupoc19/public_html/api/imprimir_factura.php on line 24
+[01-Sep-2020 09:36:38 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home3/grupoc19/public_html/api/imprimir_factura.php on line 33
+[01-Sep-2020 09:39:48 America/Bogota] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home3/grupoc19/public_html/api/imprimir_factura.php on line 24
+[01-Sep-2020 09:39:48 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home3/grupoc19/public_html/api/imprimir_factura.php on line 33
+[01-Sep-2020 09:40:40 America/Bogota] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home3/grupoc19/public_html/api/imprimir_factura.php on line 24
+[01-Sep-2020 09:40:40 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home3/grupoc19/public_html/api/imprimir_factura.php on line 33
+[01-Sep-2020 09:45:46 America/Bogota] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home3/grupoc19/public_html/api/imprimir_factura.php on line 24
+[01-Sep-2020 09:45:46 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home3/grupoc19/public_html/api/imprimir_factura.php on line 33
+[01-Sep-2020 09:47:03 America/Bogota] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home3/grupoc19/public_html/api/imprimir_factura.php on line 24
+[01-Sep-2020 09:47:03 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home3/grupoc19/public_html/api/imprimir_factura.php on line 33
+[01-Sep-2020 09:49:43 America/Bogota] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home3/grupoc19/public_html/api/imprimir_factura.php on line 24
+[01-Sep-2020 09:49:43 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home3/grupoc19/public_html/api/imprimir_factura.php on line 33
+[01-Sep-2020 09:51:25 America/Bogota] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home3/grupoc19/public_html/api/imprimir_factura.php on line 24
+[01-Sep-2020 09:51:25 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home3/grupoc19/public_html/api/imprimir_factura.php on line 33
+[01-Sep-2020 09:52:12 America/Bogota] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home3/grupoc19/public_html/api/imprimir_factura.php on line 24
+[01-Sep-2020 09:52:12 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home3/grupoc19/public_html/api/imprimir_factura.php on line 33
+[01-Sep-2020 09:52:52 America/Bogota] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home3/grupoc19/public_html/api/imprimir_factura.php on line 24
+[01-Sep-2020 09:52:52 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home3/grupoc19/public_html/api/imprimir_factura.php on line 33
+[01-Sep-2020 09:53:18 America/Bogota] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home3/grupoc19/public_html/api/imprimir_factura.php on line 24
+[01-Sep-2020 09:53:18 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home3/grupoc19/public_html/api/imprimir_factura.php on line 33
+[01-Sep-2020 09:53:48 America/Bogota] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home3/grupoc19/public_html/api/imprimir_factura.php on line 24
+[01-Sep-2020 09:53:48 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home3/grupoc19/public_html/api/imprimir_factura.php on line 33
+[01-Sep-2020 09:53:53 America/Bogota] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home3/grupoc19/public_html/api/imprimir_factura.php on line 24
+[01-Sep-2020 09:53:54 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home3/grupoc19/public_html/api/imprimir_factura.php on line 33
+[01-Sep-2020 09:54:10 America/Bogota] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home3/grupoc19/public_html/api/imprimir_factura.php on line 24
+[01-Sep-2020 09:54:10 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home3/grupoc19/public_html/api/imprimir_factura.php on line 33
+[01-Sep-2020 09:55:18 America/Bogota] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home3/grupoc19/public_html/api/imprimir_factura.php on line 24
+[01-Sep-2020 09:55:18 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home3/grupoc19/public_html/api/imprimir_factura.php on line 33
+[01-Sep-2020 11:08:50 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined function convertir() in /home3/grupoc19/public_html/api/imprimir_factura.php:32
+Stack trace:
+#0 {main}
+  thrown in /home3/grupoc19/public_html/api/imprimir_factura.php on line 32
+[01-Sep-2020 11:09:26 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined function convertir() in /home3/grupoc19/public_html/api/imprimir_factura.php:32
+Stack trace:
+#0 {main}
+  thrown in /home3/grupoc19/public_html/api/imprimir_factura.php on line 32
+[01-Sep-2020 11:09:29 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined function convertir() in /home3/grupoc19/public_html/api/imprimir_factura.php:32
+Stack trace:
+#0 {main}
+  thrown in /home3/grupoc19/public_html/api/imprimir_factura.php on line 32
+[01-Sep-2020 11:10:06 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined function convertir() in /home3/grupoc19/public_html/api/imprimir_factura.php:35
+Stack trace:
+#0 {main}
+  thrown in /home3/grupoc19/public_html/api/imprimir_factura.php on line 35
+[01-Sep-2020 11:10:21 America/Bogota] PHP Notice:  Undefined offset: 2 in /home3/grupoc19/public_html/api/imprimir_factura.php on line 42
+[01-Sep-2020 11:10:21 America/Bogota] PHP Notice:  Undefined offset: 2 in /home3/grupoc19/public_html/api/imprimir_factura.php on line 42
+[01-Sep-2020 11:10:21 America/Bogota] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file (output started at /home3/grupoc19/public_html/api/imprimir_factura.php:42) in /home3/grupoc19/public_html/api/fpdf182/fpdf.php:271
+Stack trace:
+#0 /home3/grupoc19/public_html/api/fpdf182/fpdf.php(1049): FPDF->Error('Some data has a...')
+#1 /home3/grupoc19/public_html/api/fpdf182/fpdf.php(999): FPDF->_checkoutput()
+#2 /home3/grupoc19/public_html/api/imprimir_factura.php(45): FPDF->Output()
+#3 {main}
+  thrown in /home3/grupoc19/public_html/api/fpdf182/fpdf.php on line 271
+[01-Sep-2020 12:22:41 America/Bogota] PHP Parse error:  syntax error, unexpected '$pdf' (T_VARIABLE) in /home3/grupoc19/public_html/api/imprimir_factura.php on line 32
+[07-Sep-2020 11:40:09 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home3/grupoc19/public_html/api/add_pedidos.php:53
+Stack trace:
+#0 {main}
+  thrown in /home3/grupoc19/public_html/api/add_pedidos.php on line 53
+[07-Sep-2020 11:41:07 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home3/grupoc19/public_html/api/add_pedidos.php:53
+Stack trace:
+#0 {main}
+  thrown in /home3/grupoc19/public_html/api/add_pedidos.php on line 53
+[07-Sep-2020 11:41:53 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home3/grupoc19/public_html/api/add_pedidos.php:53
+Stack trace:
+#0 {main}
+  thrown in /home3/grupoc19/public_html/api/add_pedidos.php on line 53
+[07-Sep-2020 11:42:52 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home3/grupoc19/public_html/api/add_pedidos.php:53
+Stack trace:
+#0 {main}
+  thrown in /home3/grupoc19/public_html/api/add_pedidos.php on line 53
+[07-Sep-2020 11:43:31 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home3/grupoc19/public_html/api/add_pedidos.php:53
+Stack trace:
+#0 {main}
+  thrown in /home3/grupoc19/public_html/api/add_pedidos.php on line 53
+[07-Sep-2020 11:44:44 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home3/grupoc19/public_html/api/add_pedidos.php:53
+Stack trace:
+#0 {main}
+  thrown in /home3/grupoc19/public_html/api/add_pedidos.php on line 53
+[18-Sep-2020 09:56:08 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home3/grupoc19/public_html/api/add_pedidos.php:53
+Stack trace:
+#0 {main}
+  thrown in /home3/grupoc19/public_html/api/add_pedidos.php on line 53
+[09-Oct-2021 14:34:25 America/Bogota] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'grupoc78_estanco'@'localhost' to database 'grupoc78_elestanco' in /home3/grupoc78/elestancosis.grupocosechar.com/api/connect_db.php on line 23
+[09-Oct-2021 14:34:25 America/Bogota] PHP Warning:  Connection::get(): Couldn't fetch mysqli in /home3/grupoc78/elestancosis.grupocosechar.com/api/connect_db.php on line 25
+[09-Oct-2021 14:34:25 America/Bogota] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /home3/grupoc78/elestancosis.grupocosechar.com/api/login.php on line 29
+[09-Oct-2021 14:34:25 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home3/grupoc78/elestancosis.grupocosechar.com/api/login.php:31
+Stack trace:
+#0 {main}
+  thrown in /home3/grupoc78/elestancosis.grupocosechar.com/api/login.php on line 31
+[09-Oct-2021 14:34:26 America/Bogota] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'grupoc78_estanco'@'localhost' to database 'grupoc78_elestanco' in /home3/grupoc78/elestancosis.grupocosechar.com/api/connect_db.php on line 23
+[09-Oct-2021 14:34:26 America/Bogota] PHP Warning:  Connection::get(): Couldn't fetch mysqli in /home3/grupoc78/elestancosis.grupocosechar.com/api/connect_db.php on line 25
+[09-Oct-2021 14:34:26 America/Bogota] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /home3/grupoc78/elestancosis.grupocosechar.com/api/login.php on line 29
+[09-Oct-2021 14:34:26 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home3/grupoc78/elestancosis.grupocosechar.com/api/login.php:31
+Stack trace:
+#0 {main}
+  thrown in /home3/grupoc78/elestancosis.grupocosechar.com/api/login.php on line 31
+[09-Oct-2021 14:39:35 America/Bogota] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'grupoc78_estanco'@'localhost' to database 'grupoc78_elestanco' in /home3/grupoc78/elestancosis.grupocosechar.com/api/connect_db.php on line 23
+[09-Oct-2021 14:39:35 America/Bogota] PHP Warning:  Connection::get(): Couldn't fetch mysqli in /home3/grupoc78/elestancosis.grupocosechar.com/api/connect_db.php on line 25
+[09-Oct-2021 14:39:35 America/Bogota] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /home3/grupoc78/elestancosis.grupocosechar.com/api/login.php on line 29
+[09-Oct-2021 14:39:35 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home3/grupoc78/elestancosis.grupocosechar.com/api/login.php:31
+Stack trace:
+#0 {main}
+  thrown in /home3/grupoc78/elestancosis.grupocosechar.com/api/login.php on line 31
+[09-Oct-2021 14:39:36 America/Bogota] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'grupoc78_estanco'@'localhost' to database 'grupoc78_elestanco' in /home3/grupoc78/elestancosis.grupocosechar.com/api/connect_db.php on line 23
+[09-Oct-2021 14:39:36 America/Bogota] PHP Warning:  Connection::get(): Couldn't fetch mysqli in /home3/grupoc78/elestancosis.grupocosechar.com/api/connect_db.php on line 25
+[09-Oct-2021 14:39:36 America/Bogota] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /home3/grupoc78/elestancosis.grupocosechar.com/api/login.php on line 29
+[09-Oct-2021 14:39:36 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home3/grupoc78/elestancosis.grupocosechar.com/api/login.php:31
+Stack trace:
+#0 {main}
+  thrown in /home3/grupoc78/elestancosis.grupocosechar.com/api/login.php on line 31
+[09-Oct-2021 14:54:13 America/Bogota] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'grupoc78_estanco'@'localhost' (using password: YES) in /home3/grupoc78/elestancosis.grupocosechar.com/api/connect_db.php on line 23
+[09-Oct-2021 14:54:13 America/Bogota] PHP Warning:  Connection::get(): Couldn't fetch mysqli in /home3/grupoc78/elestancosis.grupocosechar.com/api/connect_db.php on line 25
+[09-Oct-2021 14:54:13 America/Bogota] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /home3/grupoc78/elestancosis.grupocosechar.com/api/login.php on line 29
+[09-Oct-2021 14:54:13 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home3/grupoc78/elestancosis.grupocosechar.com/api/login.php:31
+Stack trace:
+#0 {main}
+  thrown in /home3/grupoc78/elestancosis.grupocosechar.com/api/login.php on line 31
+[09-Oct-2021 14:54:13 America/Bogota] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'grupoc78_estanco'@'localhost' (using password: YES) in /home3/grupoc78/elestancosis.grupocosechar.com/api/connect_db.php on line 23
+[09-Oct-2021 14:54:13 America/Bogota] PHP Warning:  Connection::get(): Couldn't fetch mysqli in /home3/grupoc78/elestancosis.grupocosechar.com/api/connect_db.php on line 25
+[09-Oct-2021 14:54:13 America/Bogota] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /home3/grupoc78/elestancosis.grupocosechar.com/api/login.php on line 29
+[09-Oct-2021 14:54:13 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home3/grupoc78/elestancosis.grupocosechar.com/api/login.php:31
+Stack trace:
+#0 {main}
+  thrown in /home3/grupoc78/elestancosis.grupocosechar.com/api/login.php on line 31
+[13-Oct-2021 10:08:53 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home3/grupoc78/elestancodelanoche.grupocosechar.com/api/add_pedidos.php:53
+Stack trace:
+#0 {main}
+  thrown in /home3/grupoc78/elestancodelanoche.grupocosechar.com/api/add_pedidos.php on line 53

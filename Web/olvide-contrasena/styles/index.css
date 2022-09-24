@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css?family=Spartan&display=swap');
+
+* {
+  font-family: 'Spartan', sans-serif, Arial, Helvetica;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.wrap {
+  width: 100vw;
+  min-height: 100vh;
+  background-color: #185713;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: sans-serif;
+}
+
+.wrap form {
+  width: 230px;
+  background-color: #FFF;
+  border-radius:25px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 12px;
+  border: 2px solid #12420e;
+  box-shadow: 2px 2px 5px 0px #000;
+}
+
+.wrap form .logo {
+  width: 100%;
+}
+
+.wrap form p {
+  margin: 5px 0;
+}
+
+.wrap form .text-input {
+  padding: 5px;
+  margin: 10px 0;
+  outline: 0;
+}
+
+.wrap form .text-input:focus {
+  outline: 1px solid #185713;
+}
+
+.wrap form input[type="submit"] {
+  color: #185713;
+  border: 2px solid #185713;
+  padding: 5px;
+  cursor: pointer;
+  transition: background .5s, color .5s;
+  background-color: transparent;
+}
+
+.wrap form input[type="submit"]:hover {
+  background-color: #185713;
+  color: #FFF;
+}
