@@ -11,3 +11,7 @@ una api montada sobre la misma página web. El funcionamiento del sistema va as�
     <li>El sistema web hace peticiones igualmente a la api que tiene montada por medio de CURL</li>
     <li>La app está desarrollada en Java y el sistema web en PHP</li>
 </ol>
+
+<h2 align="center">Empezamos con las malas prácticas...</h2>
+
+<p>El primer problema del sistema es que nunca estuvo en Github. Lo cual va en contra de la lógica de control de versiones. Por lo tanto el primer trabajo que se hace es montar el sistema en Github con propósito del parcial</p>
