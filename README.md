@@ -78,3 +78,9 @@ Solución propuesta:
 <h2 align="center">Testing</h2>
 
 ![Brush-#3](https://user-images.githubusercontent.com/23731047/192087951-d2d87a5f-afaa-41ae-9c87-cee13140a4fb.png)
+
+Si, efectivamente, ninguno de los dos sistemas tiene un sólo test, es un lindo "desarrollo en caliente". De hecho muchas veces llegué a editar el sistema en producción directamente, dos prácticas horribles que van en contra del Pipeline y del TDD. Por lo tanto lo único que podemos hacer es proponer pruebas cumpliendo la estructura AAA y los principios FIRST.
+
+![image](https://user-images.githubusercontent.com/23731047/192088593-44863cbc-e7b1-4893-ad91-6cdeb99c1c79.png)
+
+<h1>Muchas gracias por ver esta desgracia de proyecto 👍 </h1>
