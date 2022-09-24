@@ -2,3 +2,7 @@ App/build
 App/gradle
 App/.idea
 App/.gradle
+App/app/release
+App/app/debug
+App/app/libs
+App/app/build
